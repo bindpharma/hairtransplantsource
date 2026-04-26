@@ -1,0 +1,43 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# next
+.next/
+out/
+.next-build/
+
+# build outputs
+dist/
+build/
+
+# env
+.env
+.env.local
+.env.production
+.env.development.local
+
+# logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# state files (runtime, not source)
+.publish-state.json
+.publish-errors.log
+.seo-tasks.json
+.seo-tasks.txt
+
+# analytics — local-only event log; production uses KV/DB
+.analytics/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# vercel / deploy
+.vercel

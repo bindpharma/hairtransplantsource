@@ -1,0 +1,95 @@
+name: Publish queue
+
+# Two crons:
+#   - Daily 06:15 UTC: only promote any queued article whose publishOn has passed.
+#   - Tue & Fri 09:30 UTC: full run (promote + schedule one new draft → queued).
+# This produces ~2 new live articles per week, with random publishOn windows
+# (set 2–5 days ahead by the script), so live appearance times are not predictable.
+#
+# The job commits any frontmatter changes back to main.
+
+on:
+  schedule:
+    - cron: '15 6 * * *'        # daily promotion (only promotes when publishOn passed)
+    - cron: '30 9 * * 2'        # Tue scheduling (1 article/week — paced for Dr. Eser review cycle)
+  workflow_dispatch:             # manual trigger
+    inputs:
+      mode:
+        description: 'promote-only or full'
+        required: false
+        default: 'full'
+        type: choice
+        options: [full, promote-only]
+
+permissions:
+  contents: write   # to commit updated frontmatter
+  deployments: write
+
+concurrency:
+  group: publish-queue
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Decide mode
+        id: mode
+        run: |
+          # Daily cron (06:15) → promote only.
+          # Tue/Fri cron (09:30) → full scheduling.
+          # Manual dispatch → use input.
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ inputs.mode }}" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "15 6 * * *" ]; then
+            echo "mode=promote-only" >> $GITHUB_OUTPUT
+          else
+            echo "mode=full" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Run publisher
+        run: |
+          if [ "${{ steps.mode.outputs.mode }}" = "promote-only" ]; then
+            node scripts/publish-next.js --force-now
+          else
+            node scripts/publish-next.js
+          fi
+
+      - name: Ping search engines (IndexNow + Google)
+        run: node scripts/ping-search-engines.js || echo "::warning::Ping failed (non-blocking)"
+
+      - name: Generate social media drafts for new articles
+        run: node scripts/social-drafts.js || echo "::warning::Social drafts step failed (non-blocking)"
+
+      - name: Run SEO audit (non-blocking on warnings)
+        run: node scripts/seo-audit.js || echo "::warning::SEO audit found errors — review before next deploy"
+
+      - name: Commit changes
+        run: |
+          git config user.name  "publish-bot"
+          git config user.email "publish-bot@hairtransplantsource.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "queue: $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+            git push
+          fi
+
+      - name: Trigger redeploy
+        if: env.DEPLOY_HOOK_URL != ''
+        env:
+          DEPLOY_HOOK_URL: ${{ secrets.DEPLOY_HOOK_URL }}
+        run: |
+          curl -fsS -X POST "$DEPLOY_HOOK_URL" || echo "::warning::Deploy hook failed"

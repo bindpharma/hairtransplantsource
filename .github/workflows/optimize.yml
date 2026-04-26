@@ -1,0 +1,69 @@
+name: SEO optimisation loop
+
+# Runs every Monday at 05:00 UTC.
+# Generates .seo-tasks.json with prioritised actions for the editorial team:
+#   - top pages to expand (FAQ, internal links, body length)
+#   - stale low-traffic pages to review or noindex
+#   - orphan pages with no inbound links
+#   - published articles below the 1200-word floor
+#
+# The output is opened as a GitHub issue so the team has a real worklist.
+
+on:
+  schedule:
+    - cron: '0 5 * * 1'        # Mondays 05:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  loop:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - run: npm ci
+
+      - name: Pull analytics from production
+        if: env.ANALYTICS_TOKEN != ''
+        env:
+          ANALYTICS_TOKEN: ${{ secrets.ANALYTICS_TOKEN }}
+          SITE_URL: ${{ vars.SITE_URL || 'https://hairtransplantsource.com' }}
+        run: |
+          mkdir -p .analytics
+          curl -fsS \
+            -H "Authorization: Bearer $ANALYTICS_TOKEN" \
+            "$SITE_URL/api/analytics?days=30" \
+            -o .analytics/_remote-summary.json || echo "::warning::Could not fetch analytics"
+
+      - name: Run optimisation loop
+        run: node automation/seo-optimization-loop.js | tee .seo-tasks.txt
+
+      - name: Open issue with worklist
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            if (!fs.existsSync('.seo-tasks.txt')) return;
+            const body = fs.readFileSync('.seo-tasks.txt', 'utf8');
+            const today = new Date().toISOString().slice(0,10);
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `SEO worklist — week of ${today}`,
+              body: '```\n' + body + '\n```\n\nMachine-readable: `.seo-tasks.json` artifact attached to the workflow run.',
+              labels: ['seo', 'automation']
+            });
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: seo-tasks
+          path: |
+            .seo-tasks.json
+            .seo-tasks.txt
+          retention-days: 60

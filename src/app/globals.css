@@ -1,0 +1,111 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #ffffff;
+  --fg: #111827;
+  --muted: #4b5563;
+  --line: #e5e7eb;
+  --brand: #22735a;
+  --brand-soft: #daf0e7;
+}
+
+html { scroll-behavior: smooth; }
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-feature-settings: 'cv11', 'ss01';
+  -webkit-font-smoothing: antialiased;
+}
+
+/* --- Prose --- */
+.prose-article {
+  max-width: 72ch;
+  font-size: 1.0625rem;
+  line-height: 1.75;
+  color: #1f2937;
+}
+.prose-article h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 2.25rem 0 0.75rem;
+  letter-spacing: -0.01em;
+  color: #0f172a;
+}
+.prose-article h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 1.75rem 0 0.5rem;
+  color: #0f172a;
+}
+.prose-article p { margin: 0 0 1.1rem; }
+.prose-article a {
+  color: var(--brand);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+.prose-article a:hover { text-decoration-thickness: 2px; }
+.prose-article ul { margin: 0 0 1.1rem 1.25rem; list-style: disc; }
+.prose-article ol { margin: 0 0 1.1rem 1.25rem; list-style: decimal; }
+.prose-article li { margin: 0.25rem 0; }
+.prose-article blockquote {
+  margin: 1.25rem 0;
+  padding: 0.75rem 1rem;
+  border-left: 3px solid var(--brand);
+  background: var(--brand-soft);
+  color: #143c32;
+  border-radius: 0 6px 6px 0;
+}
+.prose-article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.25rem 0;
+  font-size: 0.95rem;
+}
+.prose-article th, .prose-article td {
+  border: 1px solid var(--line);
+  padding: 0.55rem 0.75rem;
+  text-align: left;
+  vertical-align: top;
+}
+.prose-article th {
+  background: #f9fafb;
+  font-weight: 600;
+}
+.prose-article code {
+  background: #f3f4f6;
+  padding: 0.1rem 0.35rem;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+.prose-article hr { border: 0; border-top: 1px solid var(--line); margin: 2rem 0; }
+
+/* --- Quick answer block --- */
+.qa-box {
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--brand);
+  background: #f9fafb;
+  padding: 1rem 1.1rem;
+  border-radius: 6px;
+  margin: 1.25rem 0;
+}
+.qa-box .qa-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--brand);
+  margin-bottom: 0.35rem;
+}
+
+.in-short {
+  border: 1px dashed #94a3b8;
+  border-radius: 6px;
+  padding: 0.85rem 1rem;
+  background: #f8fafc;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+.in-short b { color: var(--brand); }

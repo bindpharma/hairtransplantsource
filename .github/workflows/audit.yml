@@ -1,0 +1,30 @@
+name: SEO audit
+
+# Runs the static SEO audit on every push to main and on PRs.
+# Fails CI on hard errors (missing fields, meta-length overflow, cannibalization).
+# Warnings are surfaced as a step summary.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/content/articles/**'
+      - 'src/data/article-plan.json'
+      - 'scripts/seo-audit.js'
+  pull_request:
+    paths:
+      - 'src/content/articles/**'
+      - 'src/data/article-plan.json'
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - run: npm ci
+      - name: Audit
+        run: node scripts/seo-audit.js | tee $GITHUB_STEP_SUMMARY

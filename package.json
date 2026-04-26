@@ -1,0 +1,47 @@
+{
+  "name": "hairtransplantsource",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Independent authority platform on hair transplant training, PRP, mesotherapy, FUE & DHI",
+  "scripts": {
+    "dev": "next dev",
+    "build": "node scripts/auto-images.js && next build",
+    "start": "next start",
+    "lint": "next lint",
+    "queue:status": "node scripts/queue-status.js",
+    "queue:publish": "node scripts/publish-next.js",
+    "queue:fill": "node scripts/fill-queue.js",
+    "images:auto": "node scripts/auto-images.js",
+    "images:watermark": "node scripts/watermark-images.js",
+    "seo:loop": "node automation/seo-optimization-loop.js",
+    "seo:audit": "node scripts/seo-audit.js",
+    "seo:ping": "node scripts/ping-search-engines.js",
+    "social:drafts": "node scripts/social-drafts.js"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "gray-matter": "4.0.3",
+    "remark": "15.0.1",
+    "remark-gfm": "4.0.0",
+    "remark-html": "16.0.1",
+    "rehype-slug": "6.0.0",
+    "rehype-autolink-headings": "7.1.0",
+    "reading-time": "1.5.0",
+    "date-fns": "3.6.0",
+    "tailwindcss": "3.4.7",
+    "postcss": "8.4.40",
+    "autoprefixer": "10.4.19",
+    "lucide-react": "0.408.0",
+    "clsx": "2.1.1",
+    "sharp": "0.33.4"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.12",
+    "@types/react": "18.3.3",
+    "typescript": "5.5.4",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.2.5"
+  }
+}
