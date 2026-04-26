@@ -26,7 +26,7 @@ inShort: >-
 author: editorial-team
 publishedAt: '2026-04-25'
 updatedAt: '2026-04-25'
-status: published
+status: queued
 partnerLink: home
 partnerLinkCount: 1
 hero:
@@ -88,6 +88,7 @@ faq:
       operational — surgical capacity, team turnover, complaint handling,
       photographic protocol. The fastest growth often comes from fixing
       operations first and only then increasing leads.
+publishOn: '2026-05-23T18:16:00.000Z'
 ---
 
 Most hair transplant clinic owners arrive at the question "how do we grow?" already convinced the answer is more leads. It almost never is. Clinics that consistently grow do five things at once: they acquire qualified leads, convert them in consultation, deliver enough surgical capacity, price appropriately for the work, and build a reputation that compounds over time. Clinics that stall almost always have a clear bottleneck in one of the last four — and pour money into the first one regardless.

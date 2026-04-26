@@ -510,5 +510,177 @@
     "partnerLink": "team",
     "partnerLinkCount": 1,
     "author": "mert-ozdemir"
+  },
+  {
+    "slug": "hair-transplant-instruments-overview",
+    "title": "Hair Transplant Instruments: A Practitioner’s Overview",
+    "cluster": "fue-dhi",
+    "isPillar": false,
+    "primaryKeyword": "hair transplant instruments",
+    "secondaryKeywords": [
+      "fue punches",
+      "choi implanter sizes",
+      "sapphire blades",
+      "surgical instruments hair"
+    ],
+    "metaTitle": "Hair Transplant Instruments: A Practitioner’s Overview",
+    "metaDescription": "A practitioner’s overview of hair transplant instruments — punches, blades, Choi pens, and the kit decisions that shape outcomes.",
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "female-hair-transplant-considerations",
+    "title": "Female Hair Transplant: Clinical Considerations and Patient Selection",
+    "cluster": "fue-dhi",
+    "isPillar": false,
+    "primaryKeyword": "female hair transplant",
+    "secondaryKeywords": [
+      "female hair loss treatment",
+      "women hair transplant",
+      "ludwig pattern transplant"
+    ],
+    "metaTitle": "Female Hair Transplant: Clinical Considerations",
+    "metaDescription": "Clinical considerations for female hair transplant — patient selection, technique choice, and the differences from male cases.",
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "hair-transplant-aftercare-protocol",
+    "title": "Hair Transplant Aftercare Protocol: Day 1 Through Month 12",
+    "cluster": "fue-dhi",
+    "isPillar": false,
+    "primaryKeyword": "hair transplant aftercare",
+    "secondaryKeywords": [
+      "post-op hair transplant",
+      "recovery hair transplant",
+      "hair transplant follow-up"
+    ],
+    "metaTitle": "Hair Transplant Aftercare Protocol: Day 1 to Month 12",
+    "metaDescription": "A complete hair transplant aftercare protocol covering the first 12 months — washing, sleep, shedding, regrowth and audit.",
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "hair-transplant-complications-and-management",
+    "title": "Hair Transplant Complications and Management",
+    "cluster": "fue-dhi",
+    "isPillar": false,
+    "primaryKeyword": "hair transplant complications",
+    "secondaryKeywords": [
+      "donor over-harvesting",
+      "recipient bleeding",
+      "hair transplant infection",
+      "post-op complications"
+    ],
+    "metaTitle": "Hair Transplant Complications and Their Management",
+    "metaDescription": "Recognising and managing hair transplant complications — donor over-harvesting, infection, recipient bleeding, shock loss.",
+    "partnerLink": "training",
+    "partnerLinkCount": 1,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "continuing-medical-education-hair-restoration",
+    "title": "Continuing Medical Education in Hair Restoration: A Career Path",
+    "cluster": "training",
+    "isPillar": false,
+    "primaryKeyword": "hair restoration continuing education",
+    "secondaryKeywords": [
+      "ishrs cme",
+      "hair transplant cme",
+      "hair restoration career"
+    ],
+    "metaTitle": "Continuing Medical Education in Hair Restoration",
+    "metaDescription": "How hair restoration surgeons build long-term expertise — CME requirements, society engagement, peer review and publication paths.",
+    "partnerLink": "academy",
+    "partnerLinkCount": 1,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "mesotherapy-cocktail-formulations",
+    "title": "Mesotherapy Cocktail Formulations for Hair Loss: Clinical Reference",
+    "cluster": "prp-mesotherapy",
+    "isPillar": false,
+    "primaryKeyword": "mesotherapy cocktail",
+    "secondaryKeywords": [
+      "mesotherapy formulations",
+      "scalp injection cocktail",
+      "hair loss cocktail"
+    ],
+    "metaTitle": "Mesotherapy Cocktail Formulations for Hair Loss",
+    "metaDescription": "A clinical reference on mesotherapy cocktail formulations for hair loss — components, evidence, storage and audit.",
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "prp-aftercare-and-patient-expectations",
+    "title": "PRP Aftercare and Setting Patient Expectations",
+    "cluster": "prp-mesotherapy",
+    "isPillar": false,
+    "primaryKeyword": "prp aftercare",
+    "secondaryKeywords": [
+      "prp recovery",
+      "prp results timeline",
+      "prp expectations"
+    ],
+    "metaTitle": "PRP Aftercare and Patient Expectations Setting",
+    "metaDescription": "Realistic post-PRP aftercare and expectation setting — what patients should know about the timeline, side effects and outcomes.",
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "hair-clinic-financial-management",
+    "title": "Hair Clinic Financial Management: Margins, Cash Flow and Reporting",
+    "cluster": "clinic-growth",
+    "isPillar": false,
+    "primaryKeyword": "hair clinic financial management",
+    "secondaryKeywords": [
+      "hair clinic margin",
+      "clinic cash flow",
+      "hair clinic reporting"
+    ],
+    "metaTitle": "Hair Clinic Financial Management: A Practical Guide",
+    "metaDescription": "Margins, cash flow patterns, and the monthly reporting hair transplant clinics need to manage their finances responsibly.",
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "hair-clinic-compliance-and-record-keeping",
+    "title": "Hair Clinic Compliance and Record Keeping: GDPR, Consent and Audit",
+    "cluster": "team-operations",
+    "isPillar": false,
+    "primaryKeyword": "hair clinic compliance",
+    "secondaryKeywords": [
+      "gdpr hair clinic",
+      "patient consent hair transplant",
+      "hair clinic records"
+    ],
+    "metaTitle": "Hair Clinic Compliance and Record Keeping",
+    "metaDescription": "GDPR, consent documentation, and record retention for hair transplant clinics — what to keep, where, and for how long.",
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "hair-loss-medical-management-overview",
+    "title": "Medical Management of Hair Loss: Finasteride, Minoxidil and Beyond",
+    "cluster": "prp-mesotherapy",
+    "isPillar": false,
+    "primaryKeyword": "medical management hair loss",
+    "secondaryKeywords": [
+      "finasteride hair loss",
+      "minoxidil hair loss",
+      "medical hair loss treatment"
+    ],
+    "metaTitle": "Medical Management of Hair Loss: Drug Treatments",
+    "metaDescription": "Pharmacological management of hair loss — finasteride, minoxidil, dutasteride, spironolactone — indications, evidence and combinations.",
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
   }
 ]

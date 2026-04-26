@@ -74,15 +74,17 @@ function writeArticle(a) {
   console.log(`  ✓ wrote ${a.slug}`);
 }
 
-// Random publish window: 2–5 days from now, between 08:00–17:00 UTC, on a weekday.
+// Random publish window: pick the next available Tue/Thu/Sat that's at least
+// 2 days out, with a random hour 08:00-19:00 UTC (covers reasonable timezones).
 function pickRandomPublishOn() {
   const now = new Date();
-  const days = 2 + Math.floor(Math.random() * 4); // 2..5
-  const target = new Date(now.getTime() + days * 24 * 60 * 60 * 1000);
-  // Avoid weekends
-  if (target.getUTCDay() === 0) target.setUTCDate(target.getUTCDate() + 1);
-  if (target.getUTCDay() === 6) target.setUTCDate(target.getUTCDate() + 2);
-  target.setUTCHours(8 + Math.floor(Math.random() * 9));
+  const target = new Date(now.getTime() + (2 + Math.floor(Math.random() * 5)) * 24 * 60 * 60 * 1000);
+  // Allowed days: Tue=2, Thu=4, Sat=6
+  const allowedDays = [2, 4, 6];
+  while (!allowedDays.includes(target.getUTCDay())) {
+    target.setUTCDate(target.getUTCDate() + 1);
+  }
+  target.setUTCHours(8 + Math.floor(Math.random() * 12));   // 08:00-19:59 UTC
   target.setUTCMinutes(Math.floor(Math.random() * 60));
   target.setUTCSeconds(0); target.setUTCMilliseconds(0);
   return target.toISOString();

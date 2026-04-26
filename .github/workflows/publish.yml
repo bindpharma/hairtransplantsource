@@ -10,8 +10,8 @@ name: Publish queue
 
 on:
   schedule:
-    - cron: '15 6 * * *'        # daily promotion (only promotes when publishOn passed)
-    - cron: '30 9 * * 2'        # Tue scheduling (1 article/week — paced for Dr. Eser review cycle)
+    - cron: '15 6 * * *'         # daily promotion (only promotes when publishOn passed)
+    - cron: '30 9 * * 2,4,6'     # Tue + Thu + Sat scheduling (3 articles/week)
   workflow_dispatch:             # manual trigger
     inputs:
       mode:

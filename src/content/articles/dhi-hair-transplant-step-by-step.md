@@ -1,50 +1,100 @@
 ---
-title: "DHI Hair Transplant Step by Step: How the Technique Actually Works"
-metaTitle: "DHI Hair Transplant Step by Step: Inside the Technique"
-metaDescription: "Inside a DHI hair transplant procedure step by step — Choi implanter loading, angle and depth control, density planning and recovery notes."
-cluster: "fue-dhi"
+title: 'DHI Hair Transplant Step by Step: How the Technique Actually Works'
+metaTitle: 'DHI Hair Transplant Step by Step: Inside the Technique'
+metaDescription: >-
+  Inside a DHI hair transplant procedure step by step — Choi implanter loading,
+  angle and depth control, density planning and recovery notes.
+cluster: fue-dhi
 isPillar: false
-primaryKeyword: "dhi hair transplant step by step"
+primaryKeyword: dhi hair transplant step by step
 secondaryKeywords:
-  - "choi implanter use"
-  - "dhi technique"
-  - "dhi vs fue depth"
-  - "dhi procedure walkthrough"
-quickAnswer: "DHI hair transplant follows seven steps: donor mapping and shaving, ring block anaesthesia, individual graft extraction with a 0.7–1.0 mm punch, microscope sorting, Choi implanter loading by trained technicians, single-motion implantation at planned angle and depth, and post-op briefing. A 2,500-graft DHI case typically takes 7–9 hours of surgical time with a team weighted toward implantation specialists."
-inShort: "DHI is FUE extraction plus single-motion implantation. The technique is unforgiving of angle and depth errors because there's no pre-made channel to inspect — operator hand training is the difference between a clean DHI result and a crooked one."
-author: "editorial-team"
-publishedAt: "2026-04-26"
-updatedAt: "2026-04-26"
-status: "published"
+  - choi implanter use
+  - dhi technique
+  - dhi vs fue depth
+  - dhi procedure walkthrough
+quickAnswer: >-
+  DHI hair transplant follows seven steps: donor mapping and shaving, ring block
+  anaesthesia, individual graft extraction with a 0.7–1.0 mm punch, microscope
+  sorting, Choi implanter loading by trained technicians, single-motion
+  implantation at planned angle and depth, and post-op briefing. A 2,500-graft
+  DHI case typically takes 7–9 hours of surgical time with a team weighted
+  toward implantation specialists.
+inShort: >-
+  DHI is FUE extraction plus single-motion implantation. The technique is
+  unforgiving of angle and depth errors because there's no pre-made channel to
+  inspect — operator hand training is the difference between a clean DHI result
+  and a crooked one.
+author: editorial-team
+publishedAt: '2026-04-26'
+updatedAt: '2026-04-26'
+status: queued
 partnerLink: null
 partnerLinkCount: 0
 hero:
-  src: "/images/articles/dhi-hair-transplant-step-by-step.webp"
-  alt: "DHI hair transplant procedure showing Choi implanter pen during single-motion graft placement"
+  src: /images/articles/dhi-hair-transplant-step-by-step.webp
+  alt: >-
+    DHI hair transplant procedure showing Choi implanter pen during
+    single-motion graft placement
 internalLinks:
-  - "fue-vs-dhi-hair-transplant-comparison"
-  - "fue-hair-transplant-technique-step-by-step"
-  - "dhi-hair-transplant-training-explained"
-  - "graft-survival-rate-fue-dhi"
-  - "hairline-design-principles"
-  - "sapphire-fue-vs-classic-fue"
+  - fue-vs-dhi-hair-transplant-comparison
+  - fue-hair-transplant-technique-step-by-step
+  - dhi-hair-transplant-training-explained
+  - graft-survival-rate-fue-dhi
+  - hairline-design-principles
+  - sapphire-fue-vs-classic-fue
 faq:
-  - q: "How long does a DHI hair transplant take?"
-    a: "A 2,000–2,500 graft DHI case typically runs 7–9 hours of surgical time — about an hour longer than equivalent FUE. The added time comes from the implantation phase, which is slower per graft than FUE forceps placement because the Choi pen requires loading and re-loading."
-  - q: "What Choi implanter sizes are used during a DHI case?"
-    a: "Most cases use 3–4 implanter sizes rotated by graft type: 0.64 mm for single-hair grafts in the hairline, 0.80 mm for double-hair grafts in the frontal zone, 0.90 mm for triple-hair grafts mid-scalp, and 1.00 mm for multi-hair grafts in the crown. Switching mid-case is normal for trained operators."
-  - q: "Can DHI be performed without shaving the recipient area?"
-    a: "Yes — this is one of DHI's structural advantages over FUE. The Choi implanter places grafts between existing native hairs, which makes unshaven recipient cases practical. Female patients and image-conscious male patients often prefer this for visual recovery reasons."
-  - q: "Is DHI more painful than FUE?"
-    a: "Patient-reported discomfort during the procedure is broadly similar with proper anaesthesia. The recovery experience is also comparable. Marketing claims that DHI is significantly less painful are not consistently supported in patient-reported series."
-  - q: "How many grafts can be placed in one DHI session?"
-    a: "Most clinics cap single-session DHI cases at 3,000–3,500 grafts. Larger cases are typically split across two consecutive days because operator fatigue affects implanter angle precision in the last hours of long sessions."
-  - q: "What happens if the Choi pen depth is set wrong?"
-    a: "Too shallow: the graft sits at skin level and is rejected during the first weeks. Too deep: the follicle is buried beneath the dermis and growth is impaired. Both are operator errors, both are visible at month 3. This is why DHI training spends meaningful time on depth calibration before live cases."
-  - q: "Can the same surgeon do FUE and DHI in one case?"
-    a: "Yes. Many clinics combine extraction (FUE-style) with implantation (DHI-style with Choi pen). This hybrid approach uses the strongest part of each technique. The naming convention is inconsistent — some clinics call it 'FUE-DHI', others 'hybrid', others just 'DHI' (since the placement step defines the experience for the patient)."
-  - q: "What's the recovery timeline after DHI?"
-    a: "Day 1–3: minor swelling possible. Day 7: most crusting resolves. Day 14: first wash without restriction. Week 3–6: shedding phase (transplanted hairs fall out before regrowing). Month 4–6: visible regrowth begins. Month 12–14: final result."
+  - q: How long does a DHI hair transplant take?
+    a: >-
+      A 2,000–2,500 graft DHI case typically runs 7–9 hours of surgical time —
+      about an hour longer than equivalent FUE. The added time comes from the
+      implantation phase, which is slower per graft than FUE forceps placement
+      because the Choi pen requires loading and re-loading.
+  - q: What Choi implanter sizes are used during a DHI case?
+    a: >-
+      Most cases use 3–4 implanter sizes rotated by graft type: 0.64 mm for
+      single-hair grafts in the hairline, 0.80 mm for double-hair grafts in the
+      frontal zone, 0.90 mm for triple-hair grafts mid-scalp, and 1.00 mm for
+      multi-hair grafts in the crown. Switching mid-case is normal for trained
+      operators.
+  - q: Can DHI be performed without shaving the recipient area?
+    a: >-
+      Yes — this is one of DHI's structural advantages over FUE. The Choi
+      implanter places grafts between existing native hairs, which makes
+      unshaven recipient cases practical. Female patients and image-conscious
+      male patients often prefer this for visual recovery reasons.
+  - q: Is DHI more painful than FUE?
+    a: >-
+      Patient-reported discomfort during the procedure is broadly similar with
+      proper anaesthesia. The recovery experience is also comparable. Marketing
+      claims that DHI is significantly less painful are not consistently
+      supported in patient-reported series.
+  - q: How many grafts can be placed in one DHI session?
+    a: >-
+      Most clinics cap single-session DHI cases at 3,000–3,500 grafts. Larger
+      cases are typically split across two consecutive days because operator
+      fatigue affects implanter angle precision in the last hours of long
+      sessions.
+  - q: What happens if the Choi pen depth is set wrong?
+    a: >-
+      Too shallow: the graft sits at skin level and is rejected during the first
+      weeks. Too deep: the follicle is buried beneath the dermis and growth is
+      impaired. Both are operator errors, both are visible at month 3. This is
+      why DHI training spends meaningful time on depth calibration before live
+      cases.
+  - q: Can the same surgeon do FUE and DHI in one case?
+    a: >-
+      Yes. Many clinics combine extraction (FUE-style) with implantation
+      (DHI-style with Choi pen). This hybrid approach uses the strongest part of
+      each technique. The naming convention is inconsistent — some clinics call
+      it 'FUE-DHI', others 'hybrid', others just 'DHI' (since the placement step
+      defines the experience for the patient).
+  - q: What's the recovery timeline after DHI?
+    a: >-
+      Day 1–3: minor swelling possible. Day 7: most crusting resolves. Day 14:
+      first wash without restriction. Week 3–6: shedding phase (transplanted
+      hairs fall out before regrowing). Month 4–6: visible regrowth begins.
+      Month 12–14: final result.
+publishOn: '2026-06-02T19:31:00.000Z'
 ---
 
 DHI — Direct Hair Implantation — is the technique that combines recipient channel creation and graft placement into a single motion using a Choi implanter pen. This article walks through a typical DHI surgical day, step by step, from donor mapping at consultation through post-op briefing. It is a companion to [FUE hair transplant technique, step by step](/articles/fue-hair-transplant-technique-step-by-step), and to the comparative view in [FUE vs. DHI hair transplant: a surgeon-level comparison](/articles/fue-vs-dhi-hair-transplant-comparison).
