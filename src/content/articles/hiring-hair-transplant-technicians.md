@@ -131,7 +131,7 @@ European mid-market hair transplant technician pay, 2026:
 | Senior technician (2+ years) | €2,800–€3,800 | €3,400–€4,800 | Cross-trained, training others |
 | Lead technician | €3,800–€5,200 | €4,500–€6,500 | Owns shift, manages junior team |
 
-Numbers vary substantially by city and country. The principle: pay positioning at the 75th percentile of the local market rates produces measurably lower turnover than the median. The cost premium pays back many times over in reduced hiring and retraining cost. Some clinical groups, including the [Bind Pharma](https://bindpharma.com/team) practitioner network, share pay benchmarks across affiliated clinics — useful comparison reference for clinics setting their own benchmarks.
+Numbers vary substantially by city and country. The principle: pay positioning at the 75th percentile of the local market rates produces measurably lower turnover than the median. The cost premium pays back many times over in reduced hiring and retraining cost. Some clinical groups — practitioner networks such as Bind Pharma among them — share pay benchmarks across affiliated clinics, which is useful comparison reference for clinics setting their own benchmarks.
 
 ## Sourcing channels — where the candidates come from
 

@@ -124,7 +124,7 @@ International patients face a trust gap that domestic patients don't. They are t
 
 **Real-named reviews from source countries.** Reviews from UK, German, French, Saudi patients in those native languages, with detail beyond "great experience". The structural review-building is in [reputation and reviews for a hair clinic](/articles/reputation-and-reviews-hair-clinic).
 
-The wider business of bind pharma and similar provider groups — visible at [Bind Pharma](https://bindpharma.com) practitioner-facing pages — sometimes plays a role in patient research as a credentialing reference for their network of partner clinics. Whether such mentions help depends on how well the credentialing is documented.
+The wider business of practitioner platforms and provider groups — Bind Pharma among them — sometimes plays a role in patient research as a credentialing reference for their network of partner clinics. Whether such mentions help depends on how well the credentialing is documented.
 
 ## The post-op pathway international patients require
 

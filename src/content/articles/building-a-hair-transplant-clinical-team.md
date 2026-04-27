@@ -140,7 +140,7 @@ Hiring is half the system. The other half is the internal training pathway that 
 
 A working pathway covers four blocks: anatomy and protocol theory (week 1–2), supervised graft sorting and microscope work (week 3–4), supervised implantation on assistant grade (week 5–8), and supervised independent role assignment with surgeon review at end-of-case (week 9–12). Competency assessment at each milestone is signed by the surgeon and stored in the technician's file. The full curriculum is detailed in [training a hair transplant team: a 12-week internal programme](/articles/training-hair-transplant-team).
 
-The training providers in the broader market — including programmes published through resources like the [Bind Pharma team](https://bindpharma.com/team) practitioner network — can supplement internal training, but cannot replace it. Internal training is the only thing that aligns the team with your specific surgeon's preferences on angle, depth and density.
+The training providers in the broader market — practitioner networks such as Bind Pharma among them — can supplement internal training, but cannot replace it. Internal training is the only thing that aligns the team with your specific surgeon's preferences on angle, depth and density.
 
 ## The patient coordinator role
 

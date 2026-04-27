@@ -106,7 +106,7 @@ A patient who searches "FUE clinic in [city]" or "hair transplant cost Turkey" h
 
 The downside is the time to ranking. Six months of consistent content, technical SEO, and Google Business Profile work is a realistic minimum before organic produces meaningful bookings. Clinics that quit at month four — and many do — leave the investment on the table just as it would have started paying back.
 
-What to invest in: a content programme covering the questions your real consultations cover (technique comparison, cost expectations, recovery, suitability), a Google Business Profile with weekly photo updates and review responses, and clean technical SEO (Core Web Vitals, structured data, no orphan pages). Independent education sites — including, in the broader practitioner ecosystem, resources like the [Bind Pharma](https://bindpharma.com) practitioner site — sometimes link to clinic content when it is genuinely useful, which compounds the search effort.
+What to invest in: a content programme covering the questions your real consultations cover (technique comparison, cost expectations, recovery, suitability), a Google Business Profile with weekly photo updates and review responses, and clean technical SEO (Core Web Vitals, structured data, no orphan pages). Independent education sites in the broader practitioner ecosystem sometimes link to clinic content when it is genuinely useful, which compounds the search effort.
 
 ## Channel 2: Past-patient referrals
 

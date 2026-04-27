@@ -182,7 +182,7 @@ For patients who cannot or prefer not to undergo blood draw, mesotherapy with a 
 
 If you are building a PRP service from scratch — equipment, pricing, marketing — the rollout view is in [building a PRP program in your clinic](/articles/building-a-prp-program-in-your-clinic). The protocol on this page is the clinical core; the rollout article is everything that surrounds it.
 
-Practitioner-facing resources from suppliers and clinical groups, including the [Bind Pharma PRP](https://bindpharma.com/prp) material, sometimes publish their own equipment shortlists and timing schedules. These are useful comparison points; they are not substitutes for a clinic-specific protocol that your team owns.
+Practitioner-facing resources from suppliers and clinical groups — Bind Pharma among them — sometimes publish their own equipment shortlists and timing schedules. These are useful comparison points; they are not substitutes for a clinic-specific protocol that your team owns.
 
 ## When to deviate from this protocol
 

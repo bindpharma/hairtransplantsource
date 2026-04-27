@@ -30,9 +30,10 @@
     ],
     "metaTitle": "FUE Hair Transplant Training Program: Doctor’s Guide",
     "metaDescription": "How to evaluate a FUE hair transplant training program: case load, instructor profile, hands-on hours, and certification value.",
-    "partnerLink": "training",
-    "partnerLinkCount": 1,
-    "author": "editorial-team"
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team",
+    "brandMentionOnly": true
   },
   {
     "slug": "dhi-hair-transplant-training-explained",
@@ -64,8 +65,8 @@
     ],
     "metaTitle": "Hair Transplant Training Course in Turkey: Doctor’s Guide",
     "metaDescription": "Why Turkey hosts so many hands-on hair transplant courses, what to verify before enrolling, and how to compare programmes.",
-    "partnerLink": "training",
-    "partnerLinkCount": 1,
+    "partnerLink": null,
+    "partnerLinkCount": 0,
     "author": "editorial-team"
   },
   {
@@ -132,9 +133,10 @@
     ],
     "metaTitle": "PRP Hair Treatment Training for Clinics: A Practical Guide",
     "metaDescription": "A practical PRP hair treatment training guide for clinics — preparation, dosing, intervals and the common errors that hurt outcomes.",
-    "partnerLink": "prp",
-    "partnerLinkCount": 1,
-    "author": "editorial-team"
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team",
+    "brandMentionOnly": true
   },
   {
     "slug": "mesotherapy-training-course-for-doctors",
@@ -183,9 +185,10 @@
     ],
     "metaTitle": "PRP Protocol for Hair Loss: Step-by-Step Reference",
     "metaDescription": "Reference PRP protocol for hair loss — patient selection, blood draw, centrifugation, activation and injection technique with intervals.",
-    "partnerLink": "prp",
-    "partnerLinkCount": 1,
-    "author": "editorial-team"
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team",
+    "brandMentionOnly": true
   },
   {
     "slug": "building-a-prp-program-in-your-clinic",
@@ -218,8 +221,8 @@
     ],
     "metaTitle": "FUE vs. DHI Hair Transplant: A Surgeon-Level Comparison",
     "metaDescription": "A surgeon-level comparison of FUE and DHI: extraction, channel creation, implantation, density, recovery and ideal candidate profiles.",
-    "partnerLink": "training",
-    "partnerLinkCount": 2,
+    "partnerLink": null,
+    "partnerLinkCount": 0,
     "author": "editorial-team"
   },
   {
@@ -286,8 +289,8 @@
     ],
     "metaTitle": "Graft Survival Rate in FUE and DHI: Realistic Numbers",
     "metaDescription": "What graft survival rate doctors should quote in FUE and DHI — variables that move it, realistic numbers, and how to reduce transection.",
-    "partnerLink": "training",
-    "partnerLinkCount": 1,
+    "partnerLink": null,
+    "partnerLinkCount": 0,
     "author": "editorial-team"
   },
   {
@@ -320,9 +323,10 @@
     ],
     "metaTitle": "Clinic Growth Playbook for Hair Transplant Clinics",
     "metaDescription": "A playbook for hair transplant clinic growth — patient flow, conversion, pricing, reputation and international demand, written for owners.",
-    "partnerLink": "home",
-    "partnerLinkCount": 1,
-    "author": "mert-ozdemir"
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "mert-ozdemir",
+    "brandMentionOnly": true
   },
   {
     "slug": "patient-acquisition-for-hair-clinics",
@@ -337,9 +341,10 @@
     ],
     "metaTitle": "Patient Acquisition for Hair Clinics: Channels That Convert",
     "metaDescription": "Which patient acquisition channels work for hair clinics in 2026 — SEO, paid social, referrals, and the unit economics behind each.",
-    "partnerLink": "home",
-    "partnerLinkCount": 2,
-    "author": "mert-ozdemir"
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "mert-ozdemir",
+    "brandMentionOnly": true
   },
   {
     "slug": "hair-transplant-pricing-strategy",
@@ -388,9 +393,10 @@
     ],
     "metaTitle": "International Patients for Hair Transplant Clinics",
     "metaDescription": "How hair transplant clinics build an international patient pipeline — language coverage, logistics, payment, and trust signals.",
-    "partnerLink": "home",
-    "partnerLinkCount": 1,
-    "author": "mert-ozdemir"
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "mert-ozdemir",
+    "brandMentionOnly": true
   },
   {
     "slug": "consultation-conversion-hair-clinic",
@@ -439,9 +445,10 @@
     ],
     "metaTitle": "Hiring Hair Transplant Technicians: A Hands-On Guide",
     "metaDescription": "A hands-on guide to hiring hair transplant technicians — job spec, practical trial, pay benchmarks and onboarding.",
-    "partnerLink": "team",
-    "partnerLinkCount": 1,
-    "author": "mert-ozdemir"
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "mert-ozdemir",
+    "brandMentionOnly": true
   },
   {
     "slug": "training-hair-transplant-team",
@@ -507,15 +514,16 @@
     ],
     "metaTitle": "Team Retention in a Hair Transplant Clinic: Why People Leave",
     "metaDescription": "Why technicians leave hair transplant clinics — and the management practices that cut turnover without inflating payroll.",
-    "partnerLink": "team",
-    "partnerLinkCount": 1,
-    "author": "mert-ozdemir"
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "mert-ozdemir",
+    "brandMentionOnly": true
   },
   {
-    "slug": "hair-transplant-instruments-overview",
-    "title": "Hair Transplant Instruments: A Practitioner’s Overview",
-    "cluster": "fue-dhi",
-    "isPillar": false,
+    "slug": "hair-transplant-instruments-guide",
+    "title": "Hair Transplant Instruments: A Complete Practitioner's Guide",
+    "cluster": "instruments-suppliers",
+    "isPillar": true,
     "primaryKeyword": "hair transplant instruments",
     "secondaryKeywords": [
       "fue punches",
@@ -523,10 +531,10 @@
       "sapphire blades",
       "surgical instruments hair"
     ],
-    "metaTitle": "Hair Transplant Instruments: A Practitioner’s Overview",
-    "metaDescription": "A practitioner’s overview of hair transplant instruments — punches, blades, Choi pens, and the kit decisions that shape outcomes.",
-    "partnerLink": null,
-    "partnerLinkCount": 0,
+    "metaTitle": "Hair Transplant Instruments Guide for Practitioners",
+    "metaDescription": "A complete practitioner's guide to hair transplant instruments — punches, blades, Choi pens, and the kit decisions that drive outcomes.",
+    "partnerLink": "home",
+    "partnerLinkCount": 1,
     "author": "editorial-team"
   },
   {
@@ -577,9 +585,10 @@
     ],
     "metaTitle": "Hair Transplant Complications and Their Management",
     "metaDescription": "Recognising and managing hair transplant complications — donor over-harvesting, infection, recipient bleeding, shock loss.",
-    "partnerLink": "training",
-    "partnerLinkCount": 1,
-    "author": "editorial-team"
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team",
+    "brandMentionOnly": true
   },
   {
     "slug": "continuing-medical-education-hair-restoration",
@@ -647,7 +656,8 @@
     "metaDescription": "Margins, cash flow patterns, and the monthly reporting hair transplant clinics need to manage their finances responsibly.",
     "partnerLink": null,
     "partnerLinkCount": 0,
-    "author": "editorial-team"
+    "author": "editorial-team",
+    "brandMentionOnly": true
   },
   {
     "slug": "hair-clinic-compliance-and-record-keeping",
@@ -679,6 +689,247 @@
     ],
     "metaTitle": "Medical Management of Hair Loss: Drug Treatments",
     "metaDescription": "Pharmacological management of hair loss — finasteride, minoxidil, dutasteride, spironolactone — indications, evidence and combinations.",
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "fue-punch-selection-guide",
+    "title": "FUE Punch Selection: Diameter, Sharpness, and Material",
+    "metaTitle": "FUE Punch Selection Guide: Diameter and Material",
+    "metaDescription": "How to select FUE punches by diameter, sharpness, and material — and what changes between hair types.",
+    "cluster": "instruments-suppliers",
+    "isPillar": false,
+    "primaryKeyword": "fue punch selection",
+    "secondaryKeywords": [
+      "fue punch diameter",
+      "fue punch material",
+      "sharp manual punch",
+      "rotary fue punch"
+    ],
+    "partnerLink": "home",
+    "partnerLinkCount": 1,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "choi-implanter-sizes-explained",
+    "title": "Choi Implanter Sizes Explained: When to Use Each",
+    "metaTitle": "Choi Implanter Sizes Explained for DHI Cases",
+    "metaDescription": "How DHI surgeons select Choi implanter sizes — 0.64, 0.80, 0.90, 1.00 mm — and why mid-case rotation matters.",
+    "cluster": "instruments-suppliers",
+    "isPillar": false,
+    "primaryKeyword": "choi implanter sizes",
+    "secondaryKeywords": [
+      "dhi choi pen",
+      "choi implanter selection",
+      "dhi pen sizes"
+    ],
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "sapphire-blades-vs-steel-channel-creation",
+    "title": "Sapphire Blades vs. Steel: Channel Creation Compared",
+    "metaTitle": "Sapphire vs. Steel Blades for Channel Creation",
+    "metaDescription": "Comparing sapphire and steel blades for FUE channel creation — geometry, edge retention, and clinical impact.",
+    "cluster": "instruments-suppliers",
+    "isPillar": false,
+    "primaryKeyword": "sapphire blade selection",
+    "secondaryKeywords": [
+      "sapphire vs steel blade",
+      "fue channel blade",
+      "recipient site blade"
+    ],
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "motorised-vs-manual-fue-systems",
+    "title": "Motorised vs. Manual FUE Systems: Trade-offs",
+    "metaTitle": "Motorised vs. Manual FUE Systems Compared",
+    "metaDescription": "Trade-offs between motorised and manual FUE extraction systems — speed, transection, and surgeon ergonomics.",
+    "cluster": "instruments-suppliers",
+    "isPillar": false,
+    "primaryKeyword": "fue motor system",
+    "secondaryKeywords": [
+      "motorised fue",
+      "manual fue",
+      "fue extraction system",
+      "fue tool comparison"
+    ],
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "graft-storage-solutions-comparison",
+    "title": "Graft Storage Solutions Compared: HypoThermosol and Alternatives",
+    "metaTitle": "Graft Storage Solutions Compared for Hair Transplant",
+    "metaDescription": "Comparing graft storage solutions for hair transplant — HypoThermosol, saline, lactated Ringer's — and what the data shows.",
+    "cluster": "instruments-suppliers",
+    "isPillar": false,
+    "primaryKeyword": "graft storage solution",
+    "secondaryKeywords": [
+      "hypothermosol",
+      "graft holding solution",
+      "fue graft preservation"
+    ],
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "prp-centrifuge-buyers-guide",
+    "title": "PRP Centrifuge Buyer's Guide for Hair Clinics",
+    "metaTitle": "PRP Centrifuge Buyer's Guide for Hair Clinics",
+    "metaDescription": "How to choose a PRP centrifuge for a hair clinic — spin parameters, validation, service contracts, and budget.",
+    "cluster": "instruments-suppliers",
+    "isPillar": false,
+    "primaryKeyword": "prp centrifuge",
+    "secondaryKeywords": [
+      "centrifuge for prp",
+      "medical centrifuge hair",
+      "prp equipment hair clinic"
+    ],
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "prp-kit-selection-closed-vs-open",
+    "title": "PRP Kit Selection: Closed Systems vs. Open Tubes",
+    "metaTitle": "PRP Kit Selection: Closed vs. Open Systems",
+    "metaDescription": "Selecting PRP kits for a hair clinic — closed single-use systems vs. open-tube preparation, with consistency trade-offs.",
+    "cluster": "instruments-suppliers",
+    "isPillar": false,
+    "primaryKeyword": "prp kit comparison",
+    "secondaryKeywords": [
+      "closed prp system",
+      "open prp tube",
+      "prp kit hair clinic"
+    ],
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "mesotherapy-needle-gauges-explained",
+    "title": "Mesotherapy Needle Gauges: 30G, 32G, and Pen Devices",
+    "metaTitle": "Mesotherapy Needle Gauges Explained",
+    "metaDescription": "Choosing needle gauges for scalp mesotherapy — 30G, 32G, manual injection, and electronic injection pens.",
+    "cluster": "instruments-suppliers",
+    "isPillar": false,
+    "primaryKeyword": "mesotherapy needle",
+    "secondaryKeywords": [
+      "mesotherapy needle gauge",
+      "scalp injection needle",
+      "mesotherapy gun"
+    ],
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "hair-transplant-consumables-checklist",
+    "title": "Hair Transplant Consumables: A Per-Case Checklist",
+    "metaTitle": "Hair Transplant Consumables Checklist for Clinics",
+    "metaDescription": "A per-case consumables checklist for hair transplant clinics — inventory, reorder cycles, and unit cost ranges.",
+    "cluster": "instruments-suppliers",
+    "isPillar": false,
+    "primaryKeyword": "hair transplant consumables",
+    "secondaryKeywords": [
+      "fue consumables list",
+      "hair clinic inventory",
+      "per case supplies"
+    ],
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "surgical-loupe-magnification-hair-transplant",
+    "title": "Surgical Loupe Magnification for Hair Transplant",
+    "metaTitle": "Surgical Loupes for Hair Transplant Surgery",
+    "metaDescription": "How to choose surgical loupes for hair transplant work — magnification, working distance, and ergonomics.",
+    "cluster": "instruments-suppliers",
+    "isPillar": false,
+    "primaryKeyword": "hair transplant loupe",
+    "secondaryKeywords": [
+      "surgical loupes hair",
+      "loupe magnification",
+      "fue magnification"
+    ],
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "instrument-sterilisation-protocol",
+    "title": "Instrument Sterilisation Protocol for Hair Clinics",
+    "metaTitle": "Instrument Sterilisation Protocol for Hair Clinics",
+    "metaDescription": "Documented sterilisation protocols for hair transplant clinics — autoclave standards, cycle logs, and audit.",
+    "cluster": "instruments-suppliers",
+    "isPillar": false,
+    "primaryKeyword": "clinic sterilisation",
+    "secondaryKeywords": [
+      "autoclave hair clinic",
+      "instrument sterilisation",
+      "sterilisation protocol clinic"
+    ],
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "equipment-budget-new-clinic",
+    "title": "Equipment Budget for a New Hair Transplant Clinic",
+    "metaTitle": "Equipment Budget for a New Hair Transplant Clinic",
+    "metaDescription": "A realistic equipment budget for opening a hair transplant clinic — capital and consumable cost ranges.",
+    "cluster": "instruments-suppliers",
+    "isPillar": false,
+    "primaryKeyword": "hair clinic equipment cost",
+    "secondaryKeywords": [
+      "hair clinic startup cost",
+      "opening hair clinic budget",
+      "fue equipment cost"
+    ],
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team",
+    "brandMentionOnly": true
+  },
+  {
+    "slug": "supplier-evaluation-criteria",
+    "title": "Evaluating Hair Transplant Equipment Suppliers",
+    "metaTitle": "Hair Transplant Supplier Evaluation Criteria",
+    "metaDescription": "How clinics evaluate hair transplant and PRP suppliers — quality, support, lead times, and red flags.",
+    "cluster": "instruments-suppliers",
+    "isPillar": false,
+    "primaryKeyword": "hair transplant supplier",
+    "secondaryKeywords": [
+      "evaluating medical suppliers",
+      "supplier red flags clinic",
+      "choosing hair clinic supplier"
+    ],
+    "partnerLink": null,
+    "partnerLinkCount": 0,
+    "author": "editorial-team"
+  },
+  {
+    "slug": "instrument-maintenance-and-replacement",
+    "title": "Instrument Maintenance and Replacement Cycles",
+    "metaTitle": "Instrument Maintenance for Hair Transplant Clinics",
+    "metaDescription": "Maintenance schedules and replacement cycles for hair transplant instruments — punches, blades, centrifuges.",
+    "cluster": "instruments-suppliers",
+    "isPillar": false,
+    "primaryKeyword": "instrument maintenance hair",
+    "secondaryKeywords": [
+      "fue punch replacement",
+      "centrifuge service",
+      "instrument maintenance clinic"
+    ],
     "partnerLink": null,
     "partnerLinkCount": 0,
     "author": "editorial-team"

@@ -30,7 +30,7 @@ export const AUTHORS: Record<string, Author> = {
       'No paid editorial coverage',
     ],
     avatar: '/images/authors/editorial.svg',
-    url: '/about',
+    url: '/authors/editorial-team',
   },
   'dr-dursun-eser': {
     slug: 'dr-dursun-eser',
@@ -43,7 +43,7 @@ export const AUTHORS: Record<string, Author> = {
       'Medical reviewer, Hair Transplant Source',
     ],
     avatar: '/images/authors/dr-dursun-eser.svg',
-    url: '/about#dr-dursun-eser',
+    url: '/authors/dr-dursun-eser',
   },
 };
 

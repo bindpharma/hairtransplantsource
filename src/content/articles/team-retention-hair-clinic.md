@@ -112,7 +112,7 @@ A clinic showing three or more of these signs needs structural intervention, not
 
 Six practices, in approximate order of impact:
 
-**Practice 1: Pay positioning at 75th percentile.** Annual review against local benchmarks. Adjust upward if positioning has slipped. Some clinical groups including the [Bind Pharma](https://bindpharma.com/team) practitioner network share pay benchmarks across affiliated clinics, which helps individual clinics calibrate without guessing.
+**Practice 1: Pay positioning at 75th percentile.** Annual review against local benchmarks. Adjust upward if positioning has slipped. Some clinical groups — practitioner networks such as Bind Pharma among them — share pay benchmarks across affiliated clinics, which helps individual clinics calibrate without guessing.
 
 **Practice 2: Documented progression path.** Junior → mid → senior → lead → training officer → operations. Each level with documented criteria and pay band. Posted internally so everyone can see what they're working toward.
 

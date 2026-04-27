@@ -46,6 +46,10 @@ const CLUSTER_THEMES = {
     bg1: '#143c32', bg2: '#1c5c49', accent: '#daf0e7',
     motif: 'circles', // team / nodes pattern
   },
+  'instruments-suppliers': {
+    bg1: '#1c4a3a', bg2: '#2c6b56', accent: '#c5e8d8',
+    motif: 'grid', // instruments grid pattern
+  },
 };
 
 // Deterministic pseudo-random based on slug, so the same article always renders

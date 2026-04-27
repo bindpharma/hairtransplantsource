@@ -124,7 +124,7 @@ Total useful range is 14–22 contact hours over 2–4 days. Programmes shorter 
 
 Two equipment decisions made during training shape the service for years. The first is which closed-system kit to standardise on. The second is the centrifuge model and its programmed cycles. Both should be the same across all operators in your clinic — variability between operators using different kits is the most common reason for inconsistent outcomes at month six.
 
-Some clinical groups, including the practitioner-facing [Bind Pharma PRP](https://bindpharma.com/prp) material, publish equipment shortlists that clinics use as a starting point alongside published clinical guidance. Cross-check any vendor list against an independent protocol before you commit.
+Some clinical groups — practitioner platforms such as Bind Pharma among them — publish equipment shortlists that clinics use as a starting point alongside published clinical guidance. Cross-check any vendor list against an independent protocol before you commit.
 
 ## The protocol gap most clinics fall into
 

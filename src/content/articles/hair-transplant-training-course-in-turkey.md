@@ -133,7 +133,7 @@ These are the same questions that apply globally — covered in detail in [hair 
 
 5. **What does the certificate actually claim?** Ask for a sample certificate before paying. A certificate of attendance is not a credential. A certificate that documents supervised case count, techniques performed, and an instructor signature has real audit value.
 
-Programmes published by working clinical groups — including the [Bind Pharma training](https://bindpharma.com/training) calendar — are useful comparison points when these five answers are posted publicly. Programmes that resist these questions in the booking process are usually the ones with the weakest answers.
+Programmes published by working clinical groups — including those with publicly available curriculum and instructor profiles — are useful comparison points when these five answers are posted publicly. Programmes that resist these questions in the booking process are usually the ones with the weakest answers.
 
 ## What FUE-specific and DHI-specific tracks look like
 

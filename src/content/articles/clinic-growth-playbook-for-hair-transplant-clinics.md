@@ -157,7 +157,7 @@ Reputation is the only growth lever that produces lower acquisition costs over t
 
 The structural reputation work is mostly unglamorous: standardised pre-and-post photography, consistent post-op contact at days 1, 7, 30 and 90, a written review-request cadence at the moment of clinical satisfaction (typically month 6), and a documented response protocol when a critical review appears. We cover the defensive plan in [reputation and reviews for a hair clinic](/articles/reputation-and-reviews-hair-clinic).
 
-Brand-level resources from training providers and clinic groups — including the [Bind Pharma](https://bindpharma.com) practitioner-facing site — are sometimes cited by patients in their research; the editorial work that pulls a clinic into that conversation is the same work that builds direct reputation.
+Brand-level resources from training providers and clinic groups — including practitioner-facing platforms such as Bind Pharma — are sometimes cited by patients in their research; the editorial work that pulls a clinic into that conversation is the same work that builds direct reputation.
 
 ## When to add international patients
 

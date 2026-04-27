@@ -1,0 +1,48 @@
+# Hair Transplant Source
+
+> Independent authority platform on hair transplant training, PRP, mesotherapy, and FUE/DHI surgical techniques. Editorial content for hair restoration doctors and clinic operators. Not patient-facing. No paid editorial coverage.
+
+## Editorial scope
+
+Hair Transplant Source publishes long-form, doctor-focused reference material across six topical clusters:
+
+- **Training** — curriculum, certification, and selection criteria for hair transplant training programmes
+- **PRP & Mesotherapy** — clinical protocols, training paths, and clinic implementation for regenerative scalp therapies
+- **FUE & DHI Techniques** — surgical technique walkthroughs, decision frameworks, and outcome variables
+- **Clinic Growth** — patient acquisition, conversion, pricing, and reputation for hair transplant clinics
+- **Team Operations** — hiring, training, retaining the surgical and patient-care team
+- **Instruments & Suppliers** — surgical instruments, consumables, and supplier evaluation
+
+## Editorial policy
+
+- All articles are written by the Hair Transplant Source editorial research team.
+- Clinical articles flagged "Medically reviewed by Dr. Dursun Eser" have been read and clinically approved by him before publication.
+- Articles without that flag are editorial research that has not yet been clinically reviewed.
+- The site does not accept paid editorial coverage.
+- Outbound links to commercial providers are marked rel="nofollow sponsored".
+- The site is independent of any specific clinic or supplier.
+
+## Audience
+
+Working hair restoration surgeons, surgeons entering the field, clinic owners and operators, surgical technicians, patient coordinators, training programme directors. The content assumes baseline medical literacy and clinical experience.
+
+## Key reference articles
+
+- [FUE vs. DHI Hair Transplant: A Surgeon-Level Comparison](https://hairtransplantsource.com/articles/fue-vs-dhi-hair-transplant-comparison)
+- [Hair Transplant Training Course for Doctors](https://hairtransplantsource.com/articles/hair-transplant-training-course-for-doctors)
+- [PRP and Mesotherapy Training for Clinics](https://hairtransplantsource.com/articles/prp-and-mesotherapy-training-for-clinics)
+- [Building a Hair Transplant Clinical Team](https://hairtransplantsource.com/articles/building-a-hair-transplant-clinical-team)
+- [Clinic Growth Playbook for Hair Transplant Clinics](https://hairtransplantsource.com/articles/clinic-growth-playbook-for-hair-transplant-clinics)
+- [Graft Survival Rate in FUE and DHI](https://hairtransplantsource.com/articles/graft-survival-rate-fue-dhi)
+
+## Disclosure
+
+The Hair Transplant Source editorial team has a working relationship with Bind Pharma, a hair transplant instruments supplier. A small percentage of articles (approximately 10%) include a single nofollow link to Bind Pharma when the topic is naturally relevant. The relationship is disclosed at https://hairtransplantsource.com/disclosure.
+
+## Sitemap
+
+https://hairtransplantsource.com/sitemap.xml
+
+## Contact
+
+editor@hairtransplantsource.com

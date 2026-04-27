@@ -151,7 +151,7 @@ These are tendencies, not rules. The right answer for any specific patient is th
 
 ## What changes for the surgeon learning both
 
-A surgeon who trains in both techniques is more flexible than one who specialises early. The skills overlap on extraction; they diverge sharply on implantation. Training programmes that bundle both are common — and worth the investment if the supervised case count is real. We cover what to look for in a [hair transplant training course for doctors](/articles/hair-transplant-training-course-for-doctors), and the [FUE-specific track](/articles/fue-hair-transplant-technique-step-by-step) and [DHI-specific track](/articles/dhi-hair-transplant-step-by-step) in companion guides. The hands-on programmes published by training providers — including the [Bind Pharma training](https://bindpharma.com/training) calendar — are one place to compare module formats.
+A surgeon who trains in both techniques is more flexible than one who specialises early. The skills overlap on extraction; they diverge sharply on implantation. Training programmes that bundle both are common — and worth the investment if the supervised case count is real. We cover what to look for in a [hair transplant training course for doctors](/articles/hair-transplant-training-course-for-doctors), and the [FUE-specific track](/articles/fue-hair-transplant-technique-step-by-step) and [DHI-specific track](/articles/dhi-hair-transplant-step-by-step) in companion guides.
 
 ## What patients usually misunderstand
 

@@ -120,7 +120,7 @@ For the clinical-decision view of when each treatment is preferred, see [PRP vs.
 
 Two equipment decisions shape your service for years. The first is the centrifuge and PRP kit combination — closed single-use systems are easier to standardise and audit than open tube-based methods, which matters when you are training a second operator. The second is the mesotherapy cocktail panel: a clinic should not stock more than two or three documented formulations at launch. More than that and consistency suffers.
 
-Some providers, including the practitioner-facing [Bind Pharma PRP](https://bindpharma.com/prp) material, publish equipment shortlists clinics can use as a starting point alongside published clinical guidance. Cross-check any vendor list against an independent protocol before you commit.
+Some providers publish equipment shortlists clinics can use as a starting point alongside published clinical guidance — practitioner platforms such as <https://bindpharma.com> publish their own; cross-check any vendor list against an independent protocol before you commit.
 
 ## Documenting the clinic protocol
 

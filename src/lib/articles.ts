@@ -57,7 +57,20 @@ export async function getArticleBySlug(slug: string, opts: { includeUnpublished?
   if (!opts.includeUnpublished && status !== 'published') return null;
 
   const processed = await remark().use(remarkGfm).use(remarkHtml, { sanitize: false }).process(content);
-  const html = processed.toString();
+  let html = processed.toString();
+
+  // Mark all external (non-relative) links as nofollow + sponsored, open in new tab.
+  // Internal links (starting with /) and anchors (#) are left alone.
+  html = html.replace(
+    /<a\s+href="(https?:\/\/[^"]+)"([^>]*)>/g,
+    (match, url, rest) => {
+      // If rel already present, append; otherwise add fresh.
+      if (/rel=/.test(rest)) {
+        return match.replace(/rel="([^"]*)"/, (m, existing) => `rel="${existing} nofollow sponsored"`);
+      }
+      return `<a href="${url}"${rest} rel="nofollow sponsored" target="_blank">`;
+    }
+  );
 
   return {
     slug,

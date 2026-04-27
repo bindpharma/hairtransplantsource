@@ -137,7 +137,7 @@ DHI courses spend a meaningful proportion of their hands-on time on Choi implant
 
 ## PRP and mesotherapy add-ons
 
-Many hair transplant training programmes bundle PRP and mesotherapy modules because most clinics realistically need to offer both treatments alongside surgery. Bundled modules are usually cheaper than buying them separately, but they are also shallower. Doctors planning a serious regenerative practice should look at dedicated training — covered in our pillar guide on [PRP and mesotherapy training for clinics](/articles/prp-and-mesotherapy-training-for-clinics). Some clinical groups, including the [Bind Pharma academy](https://bindpharma.com/academy), publish their training calendars publicly, which helps doctors compare modules side by side.
+Many hair transplant training programmes bundle PRP and mesotherapy modules because most clinics realistically need to offer both treatments alongside surgery. Bundled modules are usually cheaper than buying them separately, but they are also shallower. Doctors planning a serious regenerative practice should look at dedicated training — covered in our pillar guide on [PRP and mesotherapy training for clinics](/articles/prp-and-mesotherapy-training-for-clinics). Some clinical groups publish their training calendars publicly, which helps doctors compare modules side by side; one such practitioner platform is available [here](https://bindpharma.com/academy) for reference.
 
 ## Why so many programmes are based in Turkey
 

@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { SITE } from './site';
+import { SITE, CLUSTERS } from './site';
 import type { Article } from './articles';
 import { AUTHORS } from '@/data/authors';
 
@@ -38,6 +38,11 @@ export function buildArticleJsonLd(article: Article) {
   const author = AUTHORS[article.author];
   const reviewer = article.reviewedBy ? AUTHORS[article.reviewedBy] : undefined;
   const url = `${SITE.url}/articles/${article.slug}`;
+  const cluster = article.cluster;
+  const sectionLabel = cluster && CLUSTERS[cluster] ? CLUSTERS[cluster].title : undefined;
+
+  // Approximate word count from markdown body (strip frontmatter is already done)
+  const wordCount = article.body ? article.body.split(/\s+/).filter(Boolean).length : undefined;
 
   const articleSchema = {
     '@context': 'https://schema.org',
@@ -47,6 +52,10 @@ export function buildArticleJsonLd(article: Article) {
     image: article.hero?.src ? [`${SITE.url}${article.hero.src}`] : undefined,
     datePublished: article.publishedAt,
     dateModified: article.updatedAt,
+    inLanguage: SITE.language,
+    articleSection: sectionLabel,
+    wordCount,
+    keywords: [article.primaryKeyword, ...(article.secondaryKeywords ?? [])].filter(Boolean).join(', '),
     author: author && {
       '@type': 'Person',
       name: author.name,
@@ -57,13 +66,16 @@ export function buildArticleJsonLd(article: Article) {
       '@type': 'Person',
       name: reviewer.name,
       jobTitle: reviewer.title,
+      url: `${SITE.url}${reviewer.url}`,
     },
     publisher: {
       '@type': 'Organization',
       name: SITE.name,
+      url: SITE.url,
       logo: { '@type': 'ImageObject', url: `${SITE.url}${SITE.organization.logo}` },
     },
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+    isAccessibleForFree: true,
   };
 
   const faqSchema = article.faq?.length

@@ -16,7 +16,10 @@ export const SITE = {
     foundingYear: 2024,
     logo: '/logo.svg',
   },
-  // Bind Pharma backlink rule (50/30/20 distribution).
+  // Bind Pharma backlink rule (10/20/70 distribution — safe long-term).
+  // 10% of articles include a single nofollow link.
+  // 20% include a brand mention without link.
+  // 70% are pure informational with no Bind Pharma reference at all.
   // Keys must match `partnerLink` field in article frontmatter or be omitted.
   partner: {
     name: 'Bind Pharma',
@@ -31,7 +34,9 @@ export const SITE = {
   },
 };
 
-// Topical clusters. Each cluster has 1 pillar + 5 supporting articles = 30 total.
+// Topical clusters. Each cluster has 1 pillar + 5–14 supporting articles.
+// 6 clusters covering training, regenerative therapies, surgical technique,
+// clinic operations, team operations, and instruments/suppliers.
 export const CLUSTERS = {
   training: {
     slug: 'training',
@@ -66,6 +71,13 @@ export const CLUSTERS = {
     title: 'Team Operations',
     description:
       'Hiring, training and managing the surgical and patient-care team behind a high-output hair transplant clinic.',
+    color: 'brand',
+  },
+  'instruments-suppliers': {
+    slug: 'instruments-suppliers',
+    title: 'Instruments & Suppliers',
+    description:
+      'Surgical instruments, consumables, and supplier evaluation for hair transplant and PRP clinics.',
     color: 'brand',
   },
 } as const;

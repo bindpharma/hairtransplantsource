@@ -126,7 +126,7 @@ Five questions filter most marketing.
 4. **Is my transection rate measured during the course?** A programme that does not measure cannot improve it.
 5. **Can I see a sample certificate?** Look for one that documents supervised case count, not one that says "successfully attended".
 
-The five questions are diagnostic in another way: programmes that resist them are usually selling access, not training. Programmes that answer them in detail are usually the ones worth booking. Some clinical groups, including the [Bind Pharma training](https://bindpharma.com/training) pathway, publish their hands-on case counts and instructor profiles publicly, which makes the comparison easier.
+The five questions are diagnostic in another way: programmes that resist them are usually selling access, not training. Programmes that answer them in detail are usually the ones worth booking. Some clinical groups — practitioner-facing platforms such as Bind Pharma among them — publish their hands-on case counts and instructor profiles publicly, which makes the comparison easier.
 
 ## What you should be able to do at the end
 
