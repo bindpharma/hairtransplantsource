@@ -24,8 +24,8 @@ inShort: >-
   above 98% are best-case anecdotes, not reliable expectation-setters.
 author: editorial-team
 publishedAt: '2026-04-26'
-updatedAt: '2026-04-26'
-status: queued
+updatedAt: '2026-04-28'
+status: published
 partnerLink: training
 partnerLinkCount: 1
 hero:
@@ -95,7 +95,6 @@ faq:
       photograph baseline and 12-month outcomes, and review case-by-case at
       month 12. Survival is the output of disciplined operations, not technique
       branding.
-publishOn: '2026-04-28T10:50:00.000Z'
 ---
 
 Graft survival rate is the single most important clinical outcome of any hair transplant procedure. It is also the most aggressively misrepresented number in patient-facing marketing. Clinics quote 98% and 99% routinely. Published series rarely support those numbers consistently. This article walks through what realistic graft survival actually looks like in well-run FUE and DHI practices, what variables move it, and what doctors should tell patients in consultation.
