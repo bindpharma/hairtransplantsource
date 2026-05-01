@@ -23,8 +23,8 @@ inShort: >-
   one, it is teaching speed, not technique.
 author: editorial-team
 publishedAt: '2026-04-25'
-updatedAt: '2026-04-25'
-status: queued
+updatedAt: '2026-05-01'
+status: published
 partnerLink: null
 partnerLinkCount: 0
 hero:
@@ -84,7 +84,6 @@ faq:
       planning and angle constraints. Confirm during course selection whether
       your programme includes unshaven cases or only standard shaved cases —
       most introductory courses cover only the latter.
-publishOn: '2026-04-30T16:47:00.000Z'
 ---
 
 DHI hair transplant training is the part of a hair restoration education that surprises most physicians. The technique looks straightforward in marketing material — a pen-shaped tool, a single fluid motion, fewer steps than FUE — but it is unforgiving of angle and depth errors that the surgeon does not feel until the result is visible months later. A useful DHI course spends a meaningful proportion of its time on implanter mechanics before the doctor is ever near a patient. This guide describes what to expect and how to evaluate a programme.
