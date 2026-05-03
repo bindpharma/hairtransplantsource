@@ -25,8 +25,8 @@ inShort: >-
   from the work, not the other way around.
 author: editorial-team
 publishedAt: '2026-04-26'
-updatedAt: '2026-04-26'
-status: queued
+updatedAt: '2026-05-03'
+status: published
 partnerLink: null
 partnerLinkCount: 0
 hero:
@@ -91,7 +91,6 @@ faq:
       years (not just recent best cases), explicit case volume disclosure on the
       doctor's bio, and consistent positive reviews that mention specific
       clinical details. Certificates and training brand are tertiary.
-publishOn: '2026-05-02T18:53:00.000Z'
 ---
 
 The credentialing landscape in hair restoration is a study in inflated expectations. Doctors entering the field assume they need formal certification to operate competently and attract patients. They mostly do not. Patients assume that the doctors they hire have been formally credentialed by some authority. They mostly have not. The gap between assumption and reality is filled by training programmes that issue certificates and clinics that display them prominently. This article walks through what those certificates actually are, what credentials genuinely move patient trust, and what a doctor should invest in over a 5–10 year career arc.
