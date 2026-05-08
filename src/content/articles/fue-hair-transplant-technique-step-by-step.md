@@ -24,8 +24,8 @@ inShort: >-
   surgical day either honours that plan or wastes it.
 author: editorial-team
 publishedAt: '2026-04-25'
-updatedAt: '2026-04-25'
-status: queued
+updatedAt: '2026-05-08'
+status: published
 partnerLink: null
 partnerLinkCount: 0
 hero:
@@ -82,7 +82,6 @@ faq:
       going too deep damages the graft and donor blood supply. Depth control is
       the variable that experienced surgeons obsess over and that course
       graduates underestimate.
-publishOn: '2026-05-07T18:49:00.000Z'
 ---
 
 FUE — follicular unit extraction — is the dominant technique in modern hair transplantation. The procedure is conceptually simple and operationally exacting. This article walks through the seven steps of a typical FUE surgical day, from donor mapping at consultation through post-op briefing. It is written for doctors training in the technique and clinic owners who want to understand what their team should be doing.
