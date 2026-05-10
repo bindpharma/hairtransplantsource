@@ -25,8 +25,8 @@ inShort: >-
   varies more between providers than between countries.
 author: editorial-team
 publishedAt: '2026-04-26'
-updatedAt: '2026-04-26'
-status: queued
+updatedAt: '2026-05-10'
+status: published
 partnerLink: training
 partnerLinkCount: 1
 hero:
@@ -91,7 +91,6 @@ faq:
       days, and the certificate. Translation, dinner and entertainment are
       usually extras. Confirm what is and is not included before paying a
       deposit.
-publishOn: '2026-05-09T17:11:00.000Z'
 ---
 
 A hair transplant training course in Turkey is, for most doctors entering hair restoration, the single most efficient way to acquire surgical volume in a short window. The reason is mechanical, not promotional: Istanbul clinics run hair transplant lists that no Western country can match, and that throughput is what makes a hands-on programme possible inside a tight calendar. A doctor who could observe two FUE cases per week in Berlin can perform on five live cases per day in Istanbul.
