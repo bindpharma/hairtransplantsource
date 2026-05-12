@@ -23,8 +23,8 @@ inShort: >-
   — not when you leave with a certificate of attendance.
 author: editorial-team
 publishedAt: '2026-04-25'
-updatedAt: '2026-04-25'
-status: queued
+updatedAt: '2026-05-12'
+status: published
 partnerLink: training
 partnerLinkCount: 1
 hero:
@@ -81,7 +81,6 @@ faq:
       not a quality signal on its own — there are €3,000 courses with strong
       hands-on content and €10,000 packages that are mostly observation. Compare
       hands-on hours per delegate.
-publishOn: '2026-05-12T10:44:00.000Z'
 ---
 
 A FUE hair transplant training program is the single training step most doctors need before starting to operate independently. FUE — follicular unit extraction — has displaced strip surgery in almost every modern clinic and remains the technique a working hair restoration surgeon uses most days. Choosing where and how to learn it is therefore one of the most consequential career decisions a doctor adding hair restoration will make. This guide is written for physicians comparing programmes, and for clinic owners deciding which programme to fund for a team member.
