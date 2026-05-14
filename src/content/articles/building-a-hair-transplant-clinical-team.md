@@ -26,8 +26,8 @@ inShort: >-
   right run cases the same on Tuesday as on Friday.
 author: editorial-team
 publishedAt: '2026-04-25'
-updatedAt: '2026-04-25'
-status: queued
+updatedAt: '2026-05-14'
+status: published
 partnerLink: team
 partnerLinkCount: 2
 hero:
@@ -98,7 +98,6 @@ faq:
       implantation because Choi loading and direct placement is the slowest
       phase. A DHI-focused clinic often runs 1 extraction tech and 3–4
       implantation techs.
-publishOn: '2026-05-14T10:53:00.000Z'
 ---
 
 A hair transplant clinic's daily output is set by its team, not its surgeon. The surgeon is one person; the team is four to six people working in parallel on the same case. Clinics with strong teams routinely deliver 2,500–3,500 grafts in a normal surgical day with consistent quality. Clinics with weak teams either deliver fewer cases or deliver them with the variance you can see in their post-op photo reels.
