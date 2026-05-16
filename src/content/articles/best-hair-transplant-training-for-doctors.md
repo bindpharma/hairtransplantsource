@@ -24,8 +24,8 @@ inShort: >-
   certificate. Everything else is marketing.
 author: editorial-team
 publishedAt: '2026-04-26'
-updatedAt: '2026-04-26'
-status: queued
+updatedAt: '2026-05-16'
+status: published
 partnerLink: null
 partnerLinkCount: 0
 hero:
@@ -90,7 +90,6 @@ faq:
       training, after a few supervised cases in their own clinic with a senior
       surgeon present. Operating independently in week one is rarely the right
       move regardless of how good the training was.
-publishOn: '2026-05-16T11:51:00.000Z'
 ---
 
 There is no single "best" hair transplant training programme. There are, however, predictable variables that separate programmes worth their fee from programmes that produce confident-but-undertrained graduates. This article is the framework. Use it to evaluate any specific programme — Turkish, European, North American, or otherwise — on the criteria that matter clinically, not commercially.
