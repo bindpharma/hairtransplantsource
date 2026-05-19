@@ -24,8 +24,8 @@ inShort: >-
   outcomes regardless of operator skill.
 author: editorial-team
 publishedAt: '2026-04-25'
-updatedAt: '2026-04-25'
-status: queued
+updatedAt: '2026-05-19'
+status: published
 partnerLink: prp
 partnerLinkCount: 1
 hero:
@@ -86,7 +86,6 @@ faq:
       between €200 and €450. Most clinics package a 4-session loading course at
       a discounted bundle price. Build a tier sheet rather than negotiating per
       case.
-publishOn: '2026-05-19T15:14:00.000Z'
 ---
 
 PRP — platelet-rich plasma — is now a routine offering in any clinic that treats hair loss. The procedure is short, the consumables are inexpensive relative to surgery, and the patient pathway fits naturally between consultation and any future transplant decision. The training to deliver it well is a small investment compared with surgical training, and the gap between a useful course and a marketing demonstration is just as wide. This guide is written for clinic owners deciding which training path to fund and for clinicians evaluating their first PRP course.
