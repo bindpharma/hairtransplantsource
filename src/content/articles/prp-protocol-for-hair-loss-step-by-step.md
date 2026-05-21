@@ -25,8 +25,8 @@ inShort: >-
   month six against standardised photography and patient-reported satisfaction.
 author: editorial-team
 publishedAt: '2026-04-25'
-updatedAt: '2026-04-25'
-status: queued
+updatedAt: '2026-05-21'
+status: published
 partnerLink: prp
 partnerLinkCount: 1
 hero:
@@ -88,7 +88,6 @@ faq:
       specify a time and speed; deviations of even 30 seconds change platelet
       yield. Time-stamp every spin, log the operator, and audit weekly until the
       team is consistent.
-publishOn: '2026-05-21T10:08:00.000Z'
 ---
 
 A documented PRP protocol is the difference between a service that produces consistent outcomes and one that produces clinic-specific anecdotes. Most poor PRP results trace back to protocol drift — the same clinic doing the same procedure differently between operators or weeks. This article is a working reference. Adapt it to your jurisdiction, your equipment, and your patient mix; do not deploy it without that adaptation.
