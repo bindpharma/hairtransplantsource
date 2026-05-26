@@ -24,8 +24,8 @@ inShort: >-
   not cost per lead — they correlate poorly across channels.
 author: editorial-team
 publishedAt: '2026-04-25'
-updatedAt: '2026-04-25'
-status: queued
+updatedAt: '2026-05-26'
+status: published
 partnerLink: home
 partnerLinkCount: 2
 hero:
@@ -81,7 +81,6 @@ faq:
       nothing but a directory fee. Test with a 3-month listing, measure booked
       surgeries (not clicks or leads), and renew only if the unit economics
       work.
-publishOn: '2026-05-26T18:18:00.000Z'
 ---
 
 Patient acquisition is the most-discussed and most-misunderstood part of running a hair transplant clinic. Owners obsess over it, agencies overpromise on it, and most clinics end up over-spending on the channel that's easiest to deploy rather than the one that converts. This article walks through the five channels that actually move bookings, the realistic unit economics on each, and the order in which a clinic should build them.
