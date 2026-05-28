@@ -25,8 +25,8 @@ inShort: >-
   introduction, not clinic-launch training.
 author: editorial-team
 publishedAt: '2026-04-26'
-updatedAt: '2026-04-26'
-status: queued
+updatedAt: '2026-05-28'
+status: published
 partnerLink: null
 partnerLinkCount: 0
 hero:
@@ -94,7 +94,6 @@ faq:
       months in year 1, then every 6 months thereafter. Patient response should
       be audited at month 6 with standardised photography before continuing
       maintenance.
-publishOn: '2026-05-28T12:07:00.000Z'
 ---
 
 Mesotherapy is a foundational regenerative scalp service for hair restoration clinics. The technique is not technically demanding — most doctors with general injection experience can master it in 2–4 days of focused training. The discipline that matters is the protocol surrounding the injection, not the injection itself: cocktail formulation, patient selection, contraindication screening, intervals, and audit. This article walks through what a clinic-grade mesotherapy training course should cover and how to evaluate one against weaker alternatives.
