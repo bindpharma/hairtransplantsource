@@ -25,8 +25,8 @@ inShort: >-
   outcomes for two years.
 author: editorial-team
 publishedAt: '2026-04-26'
-updatedAt: '2026-04-26'
-status: queued
+updatedAt: '2026-05-31'
+status: published
 partnerLink: null
 partnerLinkCount: 0
 hero:
@@ -97,7 +97,6 @@ faq:
       PRP alone in equipment terms, but doubles the addressable patient pool.
       The training paths for both are covered together in our PRP and
       mesotherapy training pillar.
-publishOn: '2026-05-30T13:02:00.000Z'
 ---
 
 A PRP program is one of the highest-margin services a hair restoration clinic can launch. The equipment is modest, the operator training is short, and the patient pool is the natural overflow from hair transplant consultations. But more PRP launches fail than succeed — not on technique, but on the operational decisions made in the first month. This article is the practical rollout: equipment shortlist, pricing structure, operator training path, and the marketing that produces bookings rather than cost-per-lead.
