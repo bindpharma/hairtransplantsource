@@ -26,8 +26,8 @@ inShort: >-
   and a crooked one.
 author: editorial-team
 publishedAt: '2026-04-26'
-updatedAt: '2026-04-26'
-status: queued
+updatedAt: '2026-06-03'
+status: published
 partnerLink: null
 partnerLinkCount: 0
 hero:
@@ -94,7 +94,6 @@ faq:
       first wash without restriction. Week 3–6: shedding phase (transplanted
       hairs fall out before regrowing). Month 4–6: visible regrowth begins.
       Month 12–14: final result.
-publishOn: '2026-06-02T19:31:00.000Z'
 ---
 
 DHI — Direct Hair Implantation — is the technique that combines recipient channel creation and graft placement into a single motion using a Choi implanter pen. This article walks through a typical DHI surgical day, step by step, from donor mapping at consultation through post-op briefing. It is a companion to [FUE hair transplant technique, step by step](/articles/fue-hair-transplant-technique-step-by-step), and to the comparative view in [FUE vs. DHI hair transplant: a surgeon-level comparison](/articles/fue-vs-dhi-hair-transplant-comparison).
