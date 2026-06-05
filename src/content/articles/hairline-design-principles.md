@@ -25,8 +25,8 @@ inShort: >-
   lowering looks unnatural at 40 even if it looks great at 25.
 author: editorial-team
 publishedAt: '2026-04-26'
-updatedAt: '2026-04-26'
-status: queued
+updatedAt: '2026-06-05'
+status: published
 partnerLink: null
 partnerLinkCount: 0
 hero:
@@ -96,7 +96,6 @@ faq:
       hairline looks isolated at 50 because the surrounding native hair has
       receded. Conservative recession at the time of surgery anticipates 20–30
       years of natural progression.
-publishOn: '2026-06-04T14:38:00.000Z'
 ---
 
 The hairline is the part of a hair transplant the patient looks at every morning for the next forty years. Get it wrong and the transplant ages badly. Get it right and the result is invisible to anyone who didn't know it happened. The geometric and aesthetic rules that distinguish the two are well established in the hair restoration literature; they are also widely violated by surgeons who design hairlines to please the patient at the consultation rather than to look natural at age 50.
