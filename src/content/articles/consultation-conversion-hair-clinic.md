@@ -1,50 +1,92 @@
 ---
-title: "Consultation Conversion for Hair Clinics: From Lead to Booked Surgery"
-metaTitle: "Consultation Conversion for Hair Clinics: Lead to Booking"
-metaDescription: "A measurable system for converting hair clinic leads into booked surgeries — qualification, scripting, follow-up cadence and reporting."
-cluster: "clinic-growth"
+title: 'Consultation Conversion for Hair Clinics: From Lead to Booked Surgery'
+metaTitle: 'Consultation Conversion for Hair Clinics: Lead to Booking'
+metaDescription: >-
+  A measurable system for converting hair clinic leads into booked surgeries —
+  qualification, scripting, follow-up cadence and reporting.
+cluster: clinic-growth
 isPillar: false
-primaryKeyword: "hair clinic consultation conversion"
+primaryKeyword: hair clinic consultation conversion
 secondaryKeywords:
-  - "hair clinic sales"
-  - "consultation script hair transplant"
-  - "lead conversion hair clinic"
-  - "patient consultation conversion"
-quickAnswer: "Hair clinic consultation conversion runs 30–50% in well-structured clinics — meaning 30–50% of in-person consultations book a surgery within 90 days. Online-only consultations convert lower (15–25%). The variables that move conversion: pre-consultation qualification, written follow-up cadence, tier-sheet pricing, and a clinical recommendation the patient can act on without further research."
-inShort: "If your conversion rate is below 25%, fix the consultation before buying more leads. The biggest gains come from qualification gating, written follow-up, and a clinical recommendation in the consultation itself."
-author: "editorial-team"
-publishedAt: "2026-04-26"
-updatedAt: "2026-04-26"
-status: "queued"
-publishOn: "2026-06-09T13:00:00.000Z"
+  - hair clinic sales
+  - consultation script hair transplant
+  - lead conversion hair clinic
+  - patient consultation conversion
+quickAnswer: >-
+  Hair clinic consultation conversion runs 30–50% in well-structured clinics —
+  meaning 30–50% of in-person consultations book a surgery within 90 days.
+  Online-only consultations convert lower (15–25%). The variables that move
+  conversion: pre-consultation qualification, written follow-up cadence,
+  tier-sheet pricing, and a clinical recommendation the patient can act on
+  without further research.
+inShort: >-
+  If your conversion rate is below 25%, fix the consultation before buying more
+  leads. The biggest gains come from qualification gating, written follow-up,
+  and a clinical recommendation in the consultation itself.
+author: editorial-team
+publishedAt: '2026-04-26'
+updatedAt: '2026-06-10'
+status: published
 partnerLink: null
 partnerLinkCount: 0
 hero:
-  src: "/images/articles/consultation-conversion-hair-clinic.webp"
-  alt: "Hair clinic consultation conversion funnel from lead to booked surgery"
+  src: /images/articles/consultation-conversion-hair-clinic.webp
+  alt: Hair clinic consultation conversion funnel from lead to booked surgery
 internalLinks:
-  - "clinic-growth-playbook-for-hair-transplant-clinics"
-  - "patient-acquisition-for-hair-clinics"
-  - "hair-transplant-pricing-strategy"
-  - "reputation-and-reviews-hair-clinic"
-  - "patient-coordinator-role-hair-clinic"
+  - clinic-growth-playbook-for-hair-transplant-clinics
+  - patient-acquisition-for-hair-clinics
+  - hair-transplant-pricing-strategy
+  - reputation-and-reviews-hair-clinic
+  - patient-coordinator-role-hair-clinic
 faq:
-  - q: "What's a realistic consultation-to-surgery conversion rate?"
-    a: "30–50% for in-person consultations within 90 days is the working range for well-structured clinics. Online-only consultations convert at 15–25%. Below these ranges, the issue is in the consultation process itself, not in lead quality."
-  - q: "Should consultations be paid or free?"
-    a: "Paid is structurally better. Free consultations attract price-shoppers and tire-kickers; paid consultations attract committed patients. Most successful clinics charge €50–€150 for an in-person consultation, applicable as a credit toward the surgery package if booked."
-  - q: "How long should a consultation last?"
-    a: "60–90 minutes. Shorter than 45 minutes feels rushed and reduces conversion. Longer than 2 hours signals an inefficient process. The structure: 15 min history and donor exam, 20 min technique discussion and tier presentation, 15 min Q&A, 15 min logistics and decision support."
-  - q: "Should the surgeon do the consultation, or a coordinator?"
-    a: "The surgeon should do the clinical portion. The coordinator handles logistics and follow-up. Patients increasingly distrust clinics where the operating surgeon is invisible until surgery day. Surgeon-led clinical consultation is now a credibility signal in itself."
-  - q: "What's the right follow-up cadence after a consultation?"
-    a: "Day 1: thank-you email with the tier sheet and any photos discussed. Day 3: phone call from the coordinator to answer remaining questions. Day 7: written quote with a 30-day validity. Day 14: gentle check-in. Day 30: final reminder. After day 30, drop to quarterly nurture."
-  - q: "How do we handle patients who say 'I'll think about it'?"
-    a: "That phrase usually means a specific concern not surfaced in consultation. The follow-up call should ask: 'What would help you decide one way or the other?' Most patients name a concrete obstacle (cost, timing, partner approval) — address that obstacle directly rather than re-pitching."
-  - q: "Should we follow up by WhatsApp, email, or phone?"
-    a: "All three, sequenced. Day 1 email (record). Day 3 phone (relationship). Day 7 email (decision deadline). Day 14 WhatsApp (gentle check-in). Different patients respond to different channels. A clinic that uses only one channel converts 15–20% lower than a multi-channel clinic."
-  - q: "What's the single biggest conversion killer?"
-    a: "Sending the patient away with a verbal price and no written tier sheet. The patient cannot act on a verbal quote — they cannot show their partner, compare with other clinics, or decide alone. A written quote, sent same-day, is the foundation of a 30%+ conversion rate."
+  - q: What's a realistic consultation-to-surgery conversion rate?
+    a: >-
+      30–50% for in-person consultations within 90 days is the working range for
+      well-structured clinics. Online-only consultations convert at 15–25%.
+      Below these ranges, the issue is in the consultation process itself, not
+      in lead quality.
+  - q: Should consultations be paid or free?
+    a: >-
+      Paid is structurally better. Free consultations attract price-shoppers and
+      tire-kickers; paid consultations attract committed patients. Most
+      successful clinics charge €50–€150 for an in-person consultation,
+      applicable as a credit toward the surgery package if booked.
+  - q: How long should a consultation last?
+    a: >-
+      60–90 minutes. Shorter than 45 minutes feels rushed and reduces
+      conversion. Longer than 2 hours signals an inefficient process. The
+      structure: 15 min history and donor exam, 20 min technique discussion and
+      tier presentation, 15 min Q&A, 15 min logistics and decision support.
+  - q: 'Should the surgeon do the consultation, or a coordinator?'
+    a: >-
+      The surgeon should do the clinical portion. The coordinator handles
+      logistics and follow-up. Patients increasingly distrust clinics where the
+      operating surgeon is invisible until surgery day. Surgeon-led clinical
+      consultation is now a credibility signal in itself.
+  - q: What's the right follow-up cadence after a consultation?
+    a: >-
+      Day 1: thank-you email with the tier sheet and any photos discussed. Day
+      3: phone call from the coordinator to answer remaining questions. Day 7:
+      written quote with a 30-day validity. Day 14: gentle check-in. Day 30:
+      final reminder. After day 30, drop to quarterly nurture.
+  - q: How do we handle patients who say 'I'll think about it'?
+    a: >-
+      That phrase usually means a specific concern not surfaced in consultation.
+      The follow-up call should ask: 'What would help you decide one way or the
+      other?' Most patients name a concrete obstacle (cost, timing, partner
+      approval) — address that obstacle directly rather than re-pitching.
+  - q: 'Should we follow up by WhatsApp, email, or phone?'
+    a: >-
+      All three, sequenced. Day 1 email (record). Day 3 phone (relationship).
+      Day 7 email (decision deadline). Day 14 WhatsApp (gentle check-in).
+      Different patients respond to different channels. A clinic that uses only
+      one channel converts 15–20% lower than a multi-channel clinic.
+  - q: What's the single biggest conversion killer?
+    a: >-
+      Sending the patient away with a verbal price and no written tier sheet.
+      The patient cannot act on a verbal quote — they cannot show their partner,
+      compare with other clinics, or decide alone. A written quote, sent
+      same-day, is the foundation of a 30%+ conversion rate.
 ---
 
 Most hair clinic owners think their problem is leads. It usually is not. A clinic with 50 consultations per month and a 20% conversion rate has the same number of booked surgeries as a clinic with 25 consultations per month and a 40% conversion rate — but the second clinic is paying half the marketing cost per surgery and producing half the consultation overhead. Conversion is the lever clinics underestimate most. This article walks through the structural elements of a high-converting consultation process.
