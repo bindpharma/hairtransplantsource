@@ -1,50 +1,103 @@
 ---
-title: "Reputation and Reviews for a Hair Clinic: A Defensive Plan"
-metaTitle: "Reputation and Reviews for a Hair Clinic: Defensive Plan"
-metaDescription: "How a hair clinic should systematically build, monitor and defend its online reputation — without resorting to fake reviews."
-cluster: "clinic-growth"
+title: 'Reputation and Reviews for a Hair Clinic: A Defensive Plan'
+metaTitle: 'Reputation and Reviews for a Hair Clinic: Defensive Plan'
+metaDescription: >-
+  How a hair clinic should systematically build, monitor and defend its online
+  reputation — without resorting to fake reviews.
+cluster: clinic-growth
 isPillar: false
-primaryKeyword: "hair clinic reputation"
+primaryKeyword: hair clinic reputation
 secondaryKeywords:
-  - "hair clinic reviews"
-  - "online reputation clinic"
-  - "patient testimonials hair"
-  - "google reviews hair clinic"
-quickAnswer: "A hair clinic builds defensible reputation through three layers: standardised photographic outcomes, systematic review request at the satisfaction window (typically month 6), and disciplined response to negative reviews. Fake reviews are now reliably detected by Google and produce algorithmic penalties. The slow path of real reviews compounds; the fast path of fake reviews destroys."
-inShort: "Build reputation through documented outcomes, structured review requests at month 6, and professional response to negatives. Fake reviews fail. Real ones compound."
-author: "editorial-team"
-publishedAt: "2026-04-26"
-updatedAt: "2026-04-26"
-status: "queued"
-publishOn: "2026-06-13T11:00:00.000Z"
+  - hair clinic reviews
+  - online reputation clinic
+  - patient testimonials hair
+  - google reviews hair clinic
+quickAnswer: >-
+  A hair clinic builds defensible reputation through three layers: standardised
+  photographic outcomes, systematic review request at the satisfaction window
+  (typically month 6), and disciplined response to negative reviews. Fake
+  reviews are now reliably detected by Google and produce algorithmic penalties.
+  The slow path of real reviews compounds; the fast path of fake reviews
+  destroys.
+inShort: >-
+  Build reputation through documented outcomes, structured review requests at
+  month 6, and professional response to negatives. Fake reviews fail. Real ones
+  compound.
+author: editorial-team
+publishedAt: '2026-04-26'
+updatedAt: '2026-06-13'
+status: published
 partnerLink: null
 partnerLinkCount: 0
 hero:
-  src: "/images/articles/reputation-and-reviews-hair-clinic.webp"
-  alt: "Hair clinic reputation management dashboard with review tracking and response cadence"
+  src: /images/articles/reputation-and-reviews-hair-clinic.webp
+  alt: >-
+    Hair clinic reputation management dashboard with review tracking and
+    response cadence
 internalLinks:
-  - "clinic-growth-playbook-for-hair-transplant-clinics"
-  - "consultation-conversion-hair-clinic"
-  - "patient-acquisition-for-hair-clinics"
-  - "patient-coordinator-role-hair-clinic"
-  - "international-patients-hair-transplant"
+  - clinic-growth-playbook-for-hair-transplant-clinics
+  - consultation-conversion-hair-clinic
+  - patient-acquisition-for-hair-clinics
+  - patient-coordinator-role-hair-clinic
+  - international-patients-hair-transplant
 faq:
-  - q: "Are fake reviews still effective?"
-    a: "Increasingly no. Google's review filtering algorithms catch most fake-review patterns reliably — burst posting, accounts without other activity, generic language, IP overlaps. Detected fake reviews are removed and the listing is algorithmically demoted. Some clinics still try; the ones that don't get caught immediately tend to get caught within 6–18 months."
-  - q: "What's the right review velocity for a hair clinic?"
-    a: "1–3 verified reviews per week is healthy and natural. 10 reviews in one day signals a campaign and triggers filtering. Slow and steady builds the most durable reputation. Most clinics underperform on review velocity because they don't ask systematically."
-  - q: "When should we ask patients for a review?"
-    a: "At the moment of clinical satisfaction, typically month 6 when patients can see meaningful regrowth. Asking at week 1 (post-procedure satisfaction) produces reviews about the experience rather than the outcome. Asking at month 12 catches some outcome reviews but loses many patients to inertia."
-  - q: "How should we respond to negative reviews?"
-    a: "Within 48 hours, professionally, with empathy and a clear path forward. Never defend or argue publicly. Move the resolution to private channels (email, phone). The response is read by future patients more than by the reviewer; how you handle a complaint signals more than the complaint itself."
-  - q: "Should we offer incentives for reviews?"
-    a: "No. Most platforms (Google, Trustpilot, Yelp) prohibit incentivised reviews and detect them through pattern analysis. The discounts or freebies attract dishonest reviews and erode review credibility. Ask without incentive; the response rate is lower but the review quality is far higher."
-  - q: "How do we handle a viral negative case?"
-    a: "Move fast. Acknowledge publicly within 24 hours, move to private resolution, document everything. Many escalations come from communication breakdowns rather than clinical failures — the patient feels unheard. Most viral cases are recoverable with structured response; the ones that aren't recoverable are usually clinical failures the clinic should learn from regardless."
-  - q: "What review platforms matter most?"
-    a: "Google Business Profile is foundational — it appears in local search results and Maps. Trustpilot, RealSelf (where present), and country-specific platforms (Doctolib in France, Jameda in Germany, etc.) are secondary but useful. Concentrate on Google first; expand to others once the Google profile is mature."
-  - q: "Can we remove false negative reviews?"
-    a: "Sometimes. Reviews that violate platform policies (defamation, off-topic, content from non-patients) can be reported and removed. The success rate is uneven — Google removes about 30–40% of reported reviews. Reviews from real patients with negative experiences cannot be removed even if you disagree."
+  - q: Are fake reviews still effective?
+    a: >-
+      Increasingly no. Google's review filtering algorithms catch most
+      fake-review patterns reliably — burst posting, accounts without other
+      activity, generic language, IP overlaps. Detected fake reviews are removed
+      and the listing is algorithmically demoted. Some clinics still try; the
+      ones that don't get caught immediately tend to get caught within 6–18
+      months.
+  - q: What's the right review velocity for a hair clinic?
+    a: >-
+      1–3 verified reviews per week is healthy and natural. 10 reviews in one
+      day signals a campaign and triggers filtering. Slow and steady builds the
+      most durable reputation. Most clinics underperform on review velocity
+      because they don't ask systematically.
+  - q: When should we ask patients for a review?
+    a: >-
+      At the moment of clinical satisfaction, typically month 6 when patients
+      can see meaningful regrowth. Asking at week 1 (post-procedure
+      satisfaction) produces reviews about the experience rather than the
+      outcome. Asking at month 12 catches some outcome reviews but loses many
+      patients to inertia.
+  - q: How should we respond to negative reviews?
+    a: >-
+      Within 48 hours, professionally, with empathy and a clear path forward.
+      Never defend or argue publicly. Move the resolution to private channels
+      (email, phone). The response is read by future patients more than by the
+      reviewer; how you handle a complaint signals more than the complaint
+      itself.
+  - q: Should we offer incentives for reviews?
+    a: >-
+      No. Most platforms (Google, Trustpilot, Yelp) prohibit incentivised
+      reviews and detect them through pattern analysis. The discounts or
+      freebies attract dishonest reviews and erode review credibility. Ask
+      without incentive; the response rate is lower but the review quality is
+      far higher.
+  - q: How do we handle a viral negative case?
+    a: >-
+      Move fast. Acknowledge publicly within 24 hours, move to private
+      resolution, document everything. Many escalations come from communication
+      breakdowns rather than clinical failures — the patient feels unheard. Most
+      viral cases are recoverable with structured response; the ones that aren't
+      recoverable are usually clinical failures the clinic should learn from
+      regardless.
+  - q: What review platforms matter most?
+    a: >-
+      Google Business Profile is foundational — it appears in local search
+      results and Maps. Trustpilot, RealSelf (where present), and
+      country-specific platforms (Doctolib in France, Jameda in Germany, etc.)
+      are secondary but useful. Concentrate on Google first; expand to others
+      once the Google profile is mature.
+  - q: Can we remove false negative reviews?
+    a: >-
+      Sometimes. Reviews that violate platform policies (defamation, off-topic,
+      content from non-patients) can be reported and removed. The success rate
+      is uneven — Google removes about 30–40% of reported reviews. Reviews from
+      real patients with negative experiences cannot be removed even if you
+      disagree.
 ---
 
 Reputation is the only growth lever that compounds. A clinic with a strong review profile attracts inbound patients at zero acquisition cost; a clinic without one pays for every patient indefinitely. This article walks through how to build reputation systematically — through real reviews, professional response, and the photographic audit trail that backs both.
