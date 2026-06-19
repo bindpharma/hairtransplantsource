@@ -1,50 +1,94 @@
 ---
-title: "Hiring Hair Transplant Technicians: Job Spec, Trial, and Pay"
-metaTitle: "Hiring Hair Transplant Technicians: A Hands-On Guide"
-metaDescription: "A hands-on guide to hiring hair transplant technicians — job spec, practical trial, pay benchmarks and onboarding."
-cluster: "team-operations"
+title: 'Hiring Hair Transplant Technicians: Job Spec, Trial, and Pay'
+metaTitle: 'Hiring Hair Transplant Technicians: A Hands-On Guide'
+metaDescription: >-
+  A hands-on guide to hiring hair transplant technicians — job spec, practical
+  trial, pay benchmarks and onboarding.
+cluster: team-operations
 isPillar: false
-primaryKeyword: "hair transplant technician hiring"
+primaryKeyword: hair transplant technician hiring
 secondaryKeywords:
-  - "hair transplant technician"
-  - "fue technician"
-  - "hiring hair clinic staff"
-  - "hair clinic hiring"
-quickAnswer: "Hiring a hair transplant technician requires four stages: written application screen, structured interview with a clinical lead, a hands-on practical trial of 3–4 hours, and a 90-day probation with documented competency milestones. The practical trial is the stage most clinics skip and most regret skipping — it surfaces in one afternoon what CVs and interviews cannot."
-inShort: "Don't skip the practical trial. CV screening misses the variables that matter — graft handling, pacing under fatigue, attention to depth control. Four hours of supervised practice tells you what 90 minutes of interview can't."
-author: "editorial-team"
-publishedAt: "2026-04-26"
-updatedAt: "2026-04-26"
-status: "queued"
-publishOn: "2026-06-18T14:00:00.000Z"
-partnerLink: "team"
+  - hair transplant technician
+  - fue technician
+  - hiring hair clinic staff
+  - hair clinic hiring
+quickAnswer: >-
+  Hiring a hair transplant technician requires four stages: written application
+  screen, structured interview with a clinical lead, a hands-on practical trial
+  of 3–4 hours, and a 90-day probation with documented competency milestones.
+  The practical trial is the stage most clinics skip and most regret skipping —
+  it surfaces in one afternoon what CVs and interviews cannot.
+inShort: >-
+  Don't skip the practical trial. CV screening misses the variables that matter
+  — graft handling, pacing under fatigue, attention to depth control. Four hours
+  of supervised practice tells you what 90 minutes of interview can't.
+author: editorial-team
+publishedAt: '2026-04-26'
+updatedAt: '2026-06-19'
+status: published
+partnerLink: team
 partnerLinkCount: 1
 hero:
-  src: "/images/articles/hiring-hair-transplant-technicians.webp"
-  alt: "Hair transplant technician practical trial during hiring at a clinic"
+  src: /images/articles/hiring-hair-transplant-technicians.webp
+  alt: Hair transplant technician practical trial during hiring at a clinic
 internalLinks:
-  - "building-a-hair-transplant-clinical-team"
-  - "training-hair-transplant-team"
-  - "patient-coordinator-role-hair-clinic"
-  - "team-retention-hair-clinic"
-  - "sop-hair-transplant-clinic"
+  - building-a-hair-transplant-clinical-team
+  - training-hair-transplant-team
+  - patient-coordinator-role-hair-clinic
+  - team-retention-hair-clinic
+  - sop-hair-transplant-clinic
 faq:
-  - q: "What qualifications should we require?"
-    a: "Formal qualifications matter less than hand skill. Most working technicians have one of: nursing background (RN, LPN), surgical assistant background, dental assistant background, or aesthetic injection background. The hand skill is what we test — the qualifications are a filter, not the decider."
-  - q: "Should we hire trained technicians from competitor clinics?"
-    a: "Selectively. Trained technicians accelerate capacity but bring their previous clinic's habits — including bad ones. Most stable clinics blend 60–70% internally trained, 30–40% experienced hires. Hiring exclusively from competitors creates protocol drift you didn't intend."
-  - q: "What does a practical trial look like?"
-    a: "3–4 hours of supervised work on synthetic donor models, microscope graft sorting, and (if appropriate) supervised participation in a real case. Tests hand steadiness, attention to detail, ability to work alongside the team, and pacing under sustained focus. Cannot be faked in a way an interview can be."
-  - q: "What pay range is typical?"
-    a: "European mid-market: €1,800–€3,000 per month base for entry-level, rising to €3,500–€5,000 for senior technicians. Plus bonuses tied to case volume in many clinics. Pay positioning at the 75th percentile of local market rates is the single largest retention lever."
-  - q: "How long is the probation period?"
-    a: "90 days, with documented competency milestones at 30, 60, and 90 days. The 90-day decision is whether to extend a permanent contract. Most failures show up by day 60 — pacing problems, attention drift, or attitude issues. Don't extend a contract you have doubts about at day 90; the issues compound."
-  - q: "Should the surgeon do the hiring or the operations manager?"
-    a: "Both, in different roles. The operations manager owns the pipeline and screens. The surgeon owns the practical trial assessment and the final clinical decision. A technician hired without surgeon assessment is a technician the surgeon may not trust on real cases."
-  - q: "What's the biggest red flag in interviews?"
-    a: "Lack of curiosity. Strong technicians ask questions about technique, protocol, why specific decisions are made. Weak candidates accept the first answer and move on. The clinic-grade hire wants to understand; the place-filler hire wants the job."
-  - q: "What's the typical hiring timeline?"
-    a: "From posting to start date: 3–6 weeks. Application screening 1 week, interviews 1 week, practical trials 1–2 weeks, offer and notice period 1–2 weeks. Compressed timelines (under 2 weeks) typically mean the practical trial was skipped, which is exactly the wrong shortcut to take."
+  - q: What qualifications should we require?
+    a: >-
+      Formal qualifications matter less than hand skill. Most working
+      technicians have one of: nursing background (RN, LPN), surgical assistant
+      background, dental assistant background, or aesthetic injection
+      background. The hand skill is what we test — the qualifications are a
+      filter, not the decider.
+  - q: Should we hire trained technicians from competitor clinics?
+    a: >-
+      Selectively. Trained technicians accelerate capacity but bring their
+      previous clinic's habits — including bad ones. Most stable clinics blend
+      60–70% internally trained, 30–40% experienced hires. Hiring exclusively
+      from competitors creates protocol drift you didn't intend.
+  - q: What does a practical trial look like?
+    a: >-
+      3–4 hours of supervised work on synthetic donor models, microscope graft
+      sorting, and (if appropriate) supervised participation in a real case.
+      Tests hand steadiness, attention to detail, ability to work alongside the
+      team, and pacing under sustained focus. Cannot be faked in a way an
+      interview can be.
+  - q: What pay range is typical?
+    a: >-
+      European mid-market: €1,800–€3,000 per month base for entry-level, rising
+      to €3,500–€5,000 for senior technicians. Plus bonuses tied to case volume
+      in many clinics. Pay positioning at the 75th percentile of local market
+      rates is the single largest retention lever.
+  - q: How long is the probation period?
+    a: >-
+      90 days, with documented competency milestones at 30, 60, and 90 days. The
+      90-day decision is whether to extend a permanent contract. Most failures
+      show up by day 60 — pacing problems, attention drift, or attitude issues.
+      Don't extend a contract you have doubts about at day 90; the issues
+      compound.
+  - q: Should the surgeon do the hiring or the operations manager?
+    a: >-
+      Both, in different roles. The operations manager owns the pipeline and
+      screens. The surgeon owns the practical trial assessment and the final
+      clinical decision. A technician hired without surgeon assessment is a
+      technician the surgeon may not trust on real cases.
+  - q: What's the biggest red flag in interviews?
+    a: >-
+      Lack of curiosity. Strong technicians ask questions about technique,
+      protocol, why specific decisions are made. Weak candidates accept the
+      first answer and move on. The clinic-grade hire wants to understand; the
+      place-filler hire wants the job.
+  - q: What's the typical hiring timeline?
+    a: >-
+      From posting to start date: 3–6 weeks. Application screening 1 week,
+      interviews 1 week, practical trials 1–2 weeks, offer and notice period 1–2
+      weeks. Compressed timelines (under 2 weeks) typically mean the practical
+      trial was skipped, which is exactly the wrong shortcut to take.
 ---
 
 The team is the ceiling on a hair transplant clinic's daily output — a point made in [building a hair transplant clinical team: roles, ratios, training](/articles/building-a-hair-transplant-clinical-team). Within the team, the hire that matters most operationally is the technician. Two strong technicians produce more than three average technicians; one weak technician costs more in errors and complaint volume than they save in payroll. This article walks through the hiring process that produces the strong ones — and protects against the weak ones — using a structured pipeline that most clinics don't run.
