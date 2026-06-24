@@ -1,50 +1,98 @@
 ---
-title: "The Patient Coordinator Role in a Hair Transplant Clinic"
-metaTitle: "Patient Coordinator Role in a Hair Transplant Clinic"
-metaDescription: "What a patient coordinator does end-to-end in a hair transplant clinic — and how the role drives both reviews and conversion."
-cluster: "team-operations"
+title: The Patient Coordinator Role in a Hair Transplant Clinic
+metaTitle: Patient Coordinator Role in a Hair Transplant Clinic
+metaDescription: >-
+  What a patient coordinator does end-to-end in a hair transplant clinic — and
+  how the role drives both reviews and conversion.
+cluster: team-operations
 isPillar: false
-primaryKeyword: "patient coordinator hair clinic"
+primaryKeyword: patient coordinator hair clinic
 secondaryKeywords:
-  - "hair transplant coordinator"
-  - "patient experience hair clinic"
-  - "patient journey hair"
-  - "hair clinic patient management"
-quickAnswer: "The patient coordinator owns the patient journey end-to-end in a hair transplant clinic: pre-consultation qualification, in-consultation logistics, day-of orientation, post-op contact at days 1, 7, 30, 90, 180 and 365, photographic follow-up coordination, and review request at the satisfaction window. The role drives both consultation conversion and long-term review velocity — typically by 1.5–2x compared to clinics without dedicated coordinators."
-inShort: "The coordinator is not a salesperson or a receptionist. They own the patient journey from first contact to month 12 — and the conversion plus review metrics that follow from running it well."
-author: "editorial-team"
-publishedAt: "2026-04-26"
-updatedAt: "2026-04-26"
-status: "queued"
-publishOn: "2026-06-23T15:30:00.000Z"
+  - hair transplant coordinator
+  - patient experience hair clinic
+  - patient journey hair
+  - hair clinic patient management
+quickAnswer: >-
+  The patient coordinator owns the patient journey end-to-end in a hair
+  transplant clinic: pre-consultation qualification, in-consultation logistics,
+  day-of orientation, post-op contact at days 1, 7, 30, 90, 180 and 365,
+  photographic follow-up coordination, and review request at the satisfaction
+  window. The role drives both consultation conversion and long-term review
+  velocity — typically by 1.5–2x compared to clinics without dedicated
+  coordinators.
+inShort: >-
+  The coordinator is not a salesperson or a receptionist. They own the patient
+  journey from first contact to month 12 — and the conversion plus review
+  metrics that follow from running it well.
+author: editorial-team
+publishedAt: '2026-04-26'
+updatedAt: '2026-06-24'
+status: published
 partnerLink: null
 partnerLinkCount: 0
 hero:
-  src: "/images/articles/patient-coordinator-role-hair-clinic.webp"
-  alt: "Patient coordinator managing the end-to-end patient journey at a hair transplant clinic"
+  src: /images/articles/patient-coordinator-role-hair-clinic.webp
+  alt: >-
+    Patient coordinator managing the end-to-end patient journey at a hair
+    transplant clinic
 internalLinks:
-  - "building-a-hair-transplant-clinical-team"
-  - "consultation-conversion-hair-clinic"
-  - "reputation-and-reviews-hair-clinic"
-  - "international-patients-hair-transplant"
-  - "team-retention-hair-clinic"
+  - building-a-hair-transplant-clinical-team
+  - consultation-conversion-hair-clinic
+  - reputation-and-reviews-hair-clinic
+  - international-patients-hair-transplant
+  - team-retention-hair-clinic
 faq:
-  - q: "Is a patient coordinator the same as a receptionist?"
-    a: "No. A receptionist handles incoming calls and scheduling. A patient coordinator owns the entire patient journey from first contact through month-12 follow-up. The receptionist role is administrative; the coordinator role is operational and patient-relationship-led."
-  - q: "What's the right ratio of coordinators to surgical capacity?"
-    a: "One full-time coordinator can manage approximately 30–50 active patients in the consultation-to-surgery window plus 100–200 patients in active follow-up. Above this, follow-up cadence slips and review velocity drops. Larger clinics need 2–3 coordinators with role specialisation."
-  - q: "Should the coordinator be clinical or non-clinical?"
-    a: "Non-clinical works fine. The role is patient experience and journey management, not medical decision-making. Clinical background is helpful but not required. What matters: communication skill, organisation, empathy, and willingness to handle difficult conversations."
-  - q: "Does the coordinator do consultation conversion conversations?"
-    a: "Partially. The clinical portion of the consultation is the surgeon's. The follow-up conversation — surfacing concerns, addressing objections, presenting the written quote — is the coordinator's. The split is intentional: the surgeon stays clinical; the coordinator handles relationship and decision support."
-  - q: "Should we have separate coordinators for international vs. local patients?"
-    a: "For clinics with substantial international volume, yes. International patients need different language coverage, longer time investment per case, and a remote follow-up protocol. A single coordinator handling both quickly drops follow-up cadence on one or both groups."
-  - q: "What's the typical coordinator's pay?"
-    a: "European mid-market: €2,200–€3,500 per month base plus performance bonuses tied to conversion and review velocity. Strong coordinators earn substantially more — they are the role most directly tied to revenue, and clinics retain them better when paid as such."
-  - q: "What's the biggest coordinator hiring mistake?"
-    a: "Hiring a salesperson type. The coordinator role is relationship-led and journey-focused; aggressive sales personalities produce short-term conversion but long-term complaint volume. The right hire is empathetic, organised, and treats the role as a long-term patient relationship rather than a transaction."
-  - q: "What software do coordinators need?"
-    a: "A clinic CRM with stage-based pipeline, scheduled follow-up reminders, photographic file integration, and SMS/email/WhatsApp logging. Generic CRMs (HubSpot, Pipedrive) work; specialised aesthetic-clinic CRMs (Pabau, AestheticsPro) work better. Spreadsheets stop working at ~30 active patients."
+  - q: Is a patient coordinator the same as a receptionist?
+    a: >-
+      No. A receptionist handles incoming calls and scheduling. A patient
+      coordinator owns the entire patient journey from first contact through
+      month-12 follow-up. The receptionist role is administrative; the
+      coordinator role is operational and patient-relationship-led.
+  - q: What's the right ratio of coordinators to surgical capacity?
+    a: >-
+      One full-time coordinator can manage approximately 30–50 active patients
+      in the consultation-to-surgery window plus 100–200 patients in active
+      follow-up. Above this, follow-up cadence slips and review velocity drops.
+      Larger clinics need 2–3 coordinators with role specialisation.
+  - q: Should the coordinator be clinical or non-clinical?
+    a: >-
+      Non-clinical works fine. The role is patient experience and journey
+      management, not medical decision-making. Clinical background is helpful
+      but not required. What matters: communication skill, organisation,
+      empathy, and willingness to handle difficult conversations.
+  - q: Does the coordinator do consultation conversion conversations?
+    a: >-
+      Partially. The clinical portion of the consultation is the surgeon's. The
+      follow-up conversation — surfacing concerns, addressing objections,
+      presenting the written quote — is the coordinator's. The split is
+      intentional: the surgeon stays clinical; the coordinator handles
+      relationship and decision support.
+  - q: Should we have separate coordinators for international vs. local patients?
+    a: >-
+      For clinics with substantial international volume, yes. International
+      patients need different language coverage, longer time investment per
+      case, and a remote follow-up protocol. A single coordinator handling both
+      quickly drops follow-up cadence on one or both groups.
+  - q: What's the typical coordinator's pay?
+    a: >-
+      European mid-market: €2,200–€3,500 per month base plus performance bonuses
+      tied to conversion and review velocity. Strong coordinators earn
+      substantially more — they are the role most directly tied to revenue, and
+      clinics retain them better when paid as such.
+  - q: What's the biggest coordinator hiring mistake?
+    a: >-
+      Hiring a salesperson type. The coordinator role is relationship-led and
+      journey-focused; aggressive sales personalities produce short-term
+      conversion but long-term complaint volume. The right hire is empathetic,
+      organised, and treats the role as a long-term patient relationship rather
+      than a transaction.
+  - q: What software do coordinators need?
+    a: >-
+      A clinic CRM with stage-based pipeline, scheduled follow-up reminders,
+      photographic file integration, and SMS/email/WhatsApp logging. Generic
+      CRMs (HubSpot, Pipedrive) work; specialised aesthetic-clinic CRMs (Pabau,
+      AestheticsPro) work better. Spreadsheets stop working at ~30 active
+      patients.
 ---
 
 The patient coordinator is the role most clinics underweight and most successful clinics structure around. Surgical excellence produces good outcomes; the coordinator produces the conversion, follow-up, and review velocity that turn good outcomes into a sustainable clinic. This article walks through what the role actually does day-to-day, how to staff it, and the metrics it owns.
