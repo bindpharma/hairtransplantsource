@@ -1,50 +1,98 @@
 ---
-title: "Standard Operating Procedures for a Hair Transplant Clinic"
-metaTitle: "SOPs for a Hair Transplant Clinic: What to Document First"
-metaDescription: "The SOPs every hair transplant clinic should document first — clinical, patient-care and administrative — with practical templates."
-cluster: "team-operations"
+title: Standard Operating Procedures for a Hair Transplant Clinic
+metaTitle: 'SOPs for a Hair Transplant Clinic: What to Document First'
+metaDescription: >-
+  The SOPs every hair transplant clinic should document first — clinical,
+  patient-care and administrative — with practical templates.
+cluster: team-operations
 isPillar: false
-primaryKeyword: "sop hair transplant clinic"
+primaryKeyword: sop hair transplant clinic
 secondaryKeywords:
-  - "hair clinic checklist"
-  - "clinical sop"
-  - "hair transplant operations manual"
-  - "clinic standard procedures"
-quickAnswer: "A hair transplant clinic should document SOPs across three categories: clinical (pre-op briefing, donor extraction sequence, graft handling, implantation density rules, post-op discharge, complication response), patient-care (consultation logistics, photo protocol, follow-up cadence, review request workflow), and administrative (booking, payment, refund, records retention). The first 12 SOPs cover 80% of the operational variance between consistent and inconsistent clinics."
-inShort: "Document the protocols you actually run. SOPs aren't bureaucracy — they're the difference between Tuesday's case and Friday's case looking the same. Start with 12; expand as needed."
-author: "editorial-team"
-publishedAt: "2026-04-26"
-updatedAt: "2026-04-26"
-status: "queued"
-publishOn: "2026-06-25T16:00:00.000Z"
+  - hair clinic checklist
+  - clinical sop
+  - hair transplant operations manual
+  - clinic standard procedures
+quickAnswer: >-
+  A hair transplant clinic should document SOPs across three categories:
+  clinical (pre-op briefing, donor extraction sequence, graft handling,
+  implantation density rules, post-op discharge, complication response),
+  patient-care (consultation logistics, photo protocol, follow-up cadence,
+  review request workflow), and administrative (booking, payment, refund,
+  records retention). The first 12 SOPs cover 80% of the operational variance
+  between consistent and inconsistent clinics.
+inShort: >-
+  Document the protocols you actually run. SOPs aren't bureaucracy — they're the
+  difference between Tuesday's case and Friday's case looking the same. Start
+  with 12; expand as needed.
+author: editorial-team
+publishedAt: '2026-04-26'
+updatedAt: '2026-06-26'
+status: published
 partnerLink: null
 partnerLinkCount: 0
 hero:
-  src: "/images/articles/sop-hair-transplant-clinic.webp"
-  alt: "Hair transplant clinic SOP documentation showing clinical and operational procedures"
+  src: /images/articles/sop-hair-transplant-clinic.webp
+  alt: >-
+    Hair transplant clinic SOP documentation showing clinical and operational
+    procedures
 internalLinks:
-  - "building-a-hair-transplant-clinical-team"
-  - "training-hair-transplant-team"
-  - "patient-coordinator-role-hair-clinic"
-  - "team-retention-hair-clinic"
-  - "consultation-conversion-hair-clinic"
+  - building-a-hair-transplant-clinical-team
+  - training-hair-transplant-team
+  - patient-coordinator-role-hair-clinic
+  - team-retention-hair-clinic
+  - consultation-conversion-hair-clinic
 faq:
-  - q: "How many SOPs should we have?"
-    a: "Start with 12 covering the highest-variance operations: 6 clinical, 4 patient-care, 2 administrative. Add more as gaps surface. Most clinics that try to document 50 SOPs from day one never use any of them; clinics that document 12 well-chosen ones reference them daily."
-  - q: "Who writes the SOPs?"
-    a: "The role-owner drafts. The senior surgeon for clinical SOPs, the patient coordinator for patient-care SOPs, the operations manager for administrative SOPs. The clinical lead reviews and approves all of them. SOPs written by an outside consultant without role-owner involvement rarely match what the team actually does."
-  - q: "Should SOPs be paper or digital?"
-    a: "Digital, in a single shared system, version-controlled. Paper SOPs go out of date and disappear. Cloud-based document systems (Google Drive, Notion, ClickUp Docs) work fine. The discipline is one source of truth, not the specific platform."
-  - q: "How often should SOPs be reviewed?"
-    a: "Quarterly review of the full SOP set, with ad-hoc updates when a process change happens. The quarterly review catches drift; ad-hoc updates capture changes before they're forgotten. Annual review is too infrequent for an active clinic."
-  - q: "What if a team member follows the SOP and the outcome is bad?"
-    a: "Treat it as a SOP defect, not a team failure. The SOP is meant to encode the right behaviour; if following it produces bad outcomes, the SOP needs revision. Defending an SOP that produces bad results is how clinics get stuck in suboptimal routines."
-  - q: "Should SOPs include rationale or just instructions?"
-    a: "Both. Instruction tells the team what to do; rationale tells them why. Without rationale, team members don't know when to deviate (e.g., when a specific patient profile justifies a different approach). The rationale paragraph is short — 2–4 sentences — but essential."
-  - q: "How do we get the team to actually follow SOPs?"
-    a: "Three things: write SOPs that match what the best operators already do (not aspirational fiction), reference SOPs in feedback and 1-1s ('this didn't follow our SOP — let's discuss why'), and update SOPs when team members surface improvements. SOPs that ignore reality are ignored by the team."
-  - q: "What's the most underrated SOP?"
-    a: "Photographic protocol. It's not clinical, not exciting, and it's the foundation of every audit, every review request, and every complaint defence. A clinic without standardised photo SOP discovers at month 6 that they cannot prove the patient's outcome to themselves, let alone to a complaint reviewer."
+  - q: How many SOPs should we have?
+    a: >-
+      Start with 12 covering the highest-variance operations: 6 clinical, 4
+      patient-care, 2 administrative. Add more as gaps surface. Most clinics
+      that try to document 50 SOPs from day one never use any of them; clinics
+      that document 12 well-chosen ones reference them daily.
+  - q: Who writes the SOPs?
+    a: >-
+      The role-owner drafts. The senior surgeon for clinical SOPs, the patient
+      coordinator for patient-care SOPs, the operations manager for
+      administrative SOPs. The clinical lead reviews and approves all of them.
+      SOPs written by an outside consultant without role-owner involvement
+      rarely match what the team actually does.
+  - q: Should SOPs be paper or digital?
+    a: >-
+      Digital, in a single shared system, version-controlled. Paper SOPs go out
+      of date and disappear. Cloud-based document systems (Google Drive, Notion,
+      ClickUp Docs) work fine. The discipline is one source of truth, not the
+      specific platform.
+  - q: How often should SOPs be reviewed?
+    a: >-
+      Quarterly review of the full SOP set, with ad-hoc updates when a process
+      change happens. The quarterly review catches drift; ad-hoc updates capture
+      changes before they're forgotten. Annual review is too infrequent for an
+      active clinic.
+  - q: What if a team member follows the SOP and the outcome is bad?
+    a: >-
+      Treat it as a SOP defect, not a team failure. The SOP is meant to encode
+      the right behaviour; if following it produces bad outcomes, the SOP needs
+      revision. Defending an SOP that produces bad results is how clinics get
+      stuck in suboptimal routines.
+  - q: Should SOPs include rationale or just instructions?
+    a: >-
+      Both. Instruction tells the team what to do; rationale tells them why.
+      Without rationale, team members don't know when to deviate (e.g., when a
+      specific patient profile justifies a different approach). The rationale
+      paragraph is short — 2–4 sentences — but essential.
+  - q: How do we get the team to actually follow SOPs?
+    a: >-
+      Three things: write SOPs that match what the best operators already do
+      (not aspirational fiction), reference SOPs in feedback and 1-1s ('this
+      didn't follow our SOP — let's discuss why'), and update SOPs when team
+      members surface improvements. SOPs that ignore reality are ignored by the
+      team.
+  - q: What's the most underrated SOP?
+    a: >-
+      Photographic protocol. It's not clinical, not exciting, and it's the
+      foundation of every audit, every review request, and every complaint
+      defence. A clinic without standardised photo SOP discovers at month 6 that
+      they cannot prove the patient's outcome to themselves, let alone to a
+      complaint reviewer.
 ---
 
 Standard operating procedures are not bureaucratic theatre. They are the documents that make Tuesday's case look like Friday's case, that allow a new technician to start contributing before week 12, and that protect the clinic when a patient questions an outcome at month 18. Most clinics either don't have them or have aspirational documents nobody references. This article walks through the 12 SOPs every hair transplant clinic should document first, what each should contain, and how to maintain them.
