@@ -1,50 +1,97 @@
 ---
-title: "FUE Punch Selection: Diameter, Sharpness, and Material"
-metaTitle: "FUE Punch Selection Guide: Diameter and Material"
-metaDescription: "How to select FUE punches by diameter, sharpness, and material — and what changes between hair types."
-cluster: "instruments-suppliers"
+title: 'FUE Punch Selection: Diameter, Sharpness, and Material'
+metaTitle: 'FUE Punch Selection Guide: Diameter and Material'
+metaDescription: >-
+  How to select FUE punches by diameter, sharpness, and material — and what
+  changes between hair types.
+cluster: instruments-suppliers
 isPillar: false
-primaryKeyword: "fue punch selection"
+primaryKeyword: fue punch selection
 secondaryKeywords:
-  - "fue punch diameter"
-  - "fue punch material"
-  - "sharp manual punch"
-  - "rotary fue punch"
-quickAnswer: "FUE punch selection is governed by three variables: diameter (0.7–1.0 mm depending on hair calibre and density target), sharpness type (sharp manual, hybrid, or motorised), and material (stainless steel, titanium, or specialised coatings). Most surgeons rotate 2–3 diameters within a single case and replace punches based on transection rate rather than case count alone."
-inShort: "Match the punch to the hair, not the technique. Sharp manual for fine donor work, hybrid for routine extraction, motorised for volume. Replace before transection drifts upward."
-author: "editorial-team"
-publishedAt: "2026-04-26"
-updatedAt: "2026-04-26"
-status: "queued"
-publishOn: "2026-07-02T15:00:00.000Z"
-partnerLink: "home"
+  - fue punch diameter
+  - fue punch material
+  - sharp manual punch
+  - rotary fue punch
+quickAnswer: >-
+  FUE punch selection is governed by three variables: diameter (0.7–1.0 mm
+  depending on hair calibre and density target), sharpness type (sharp manual,
+  hybrid, or motorised), and material (stainless steel, titanium, or specialised
+  coatings). Most surgeons rotate 2–3 diameters within a single case and replace
+  punches based on transection rate rather than case count alone.
+inShort: >-
+  Match the punch to the hair, not the technique. Sharp manual for fine donor
+  work, hybrid for routine extraction, motorised for volume. Replace before
+  transection drifts upward.
+author: editorial-team
+publishedAt: '2026-04-26'
+updatedAt: '2026-07-03'
+status: published
+partnerLink: home
 partnerLinkCount: 1
 hero:
-  src: "/images/articles/fue-punch-selection-guide.webp"
-  alt: "FUE punches of different diameters laid out for selection"
+  src: /images/articles/fue-punch-selection-guide.webp
+  alt: FUE punches of different diameters laid out for selection
 internalLinks:
-  - "hair-transplant-instruments-guide"
-  - "fue-hair-transplant-technique-step-by-step"
-  - "graft-survival-rate-fue-dhi"
-  - "motorised-vs-manual-fue-systems"
-  - "instrument-maintenance-and-replacement"
+  - hair-transplant-instruments-guide
+  - fue-hair-transplant-technique-step-by-step
+  - graft-survival-rate-fue-dhi
+  - motorised-vs-manual-fue-systems
+  - instrument-maintenance-and-replacement
 faq:
-  - q: "What punch diameter is best for FUE?"
-    a: "There is no single best diameter — it depends on donor hair calibre and target packing density. Working ranges: 0.7 mm for fine Asian or female hair, 0.8 mm for typical European hair, 0.9 mm for thicker hair, 1.0 mm for very coarse hair or larger multi-hair grafts. Most surgeons rotate 2–3 diameters within a case."
-  - q: "Sharp manual vs. motorised — which is better?"
-    a: "Different tools for different cases. Sharp manual gives maximum tactile feedback and the lowest transection in trained hands but is slower. Motorised systems trade some tactile feedback for 2–3x extraction speed. Most working clinics use motorised for routine cases and reserve manual for delicate or repair work."
-  - q: "How long does an FUE punch last?"
-    a: "Steel sharp manual punches dull noticeably across 200–400 grafts and are typically replaced 2–4 times per case. Hybrid punches (sharp tip with dull skirt) last longer but produce different channel geometry. Motorised punch tips are typically replaced per manufacturer cycle counts (200–500 grafts per tip)."
-  - q: "What does 'hybrid punch' mean?"
-    a: "A hybrid punch has a sharp leading edge for skin penetration and a dull skirt for the deeper portion. The design reduces transection of the deeper follicular structures while keeping the surface cut clean. Hybrid punches are popular for surgeons who find pure sharp punches too aggressive at depth."
-  - q: "Are titanium punches better than steel?"
-    a: "Marginally, on edge retention. Titanium holds sharpness slightly longer than stainless steel and is lighter in motorised handpieces. The clinical effect is small. Most working clinics use stainless steel for sharp manual punches and titanium or coated steel for motorised tips."
-  - q: "How do I know when a punch is dull?"
-    a: "Three signals: increased force needed at skin penetration (subjective), increased transection rate at the same operator skill (objective), and visual inspection under microscope (deformed cutting edge). Track transection rate every 200 grafts; a 2-percentage-point rise mid-case is the signal to replace."
-  - q: "Should we standardise on one punch brand or mix?"
-    a: "Standardise on one or two brands for the punch types your team uses most. Mixing 5+ brands creates handpiece compatibility issues, sterilisation tracking complications, and protocol drift. Two trusted suppliers covering primary punch types is the working pattern."
-  - q: "What's the cost difference between cheap and premium punches?"
-    a: "Sharp manual punches range €5–€20 per unit; motorised tips €15–€60 per unit; hybrid punches €25–€80 per unit. Across a 2,500-graft case, premium punch cost adds up to €60–€200. The cost differential is meaningful for high-volume clinics; the per-graft cost difference is rarely the bottleneck for outcome quality."
+  - q: What punch diameter is best for FUE?
+    a: >-
+      There is no single best diameter — it depends on donor hair calibre and
+      target packing density. Working ranges: 0.7 mm for fine Asian or female
+      hair, 0.8 mm for typical European hair, 0.9 mm for thicker hair, 1.0 mm
+      for very coarse hair or larger multi-hair grafts. Most surgeons rotate 2–3
+      diameters within a case.
+  - q: Sharp manual vs. motorised — which is better?
+    a: >-
+      Different tools for different cases. Sharp manual gives maximum tactile
+      feedback and the lowest transection in trained hands but is slower.
+      Motorised systems trade some tactile feedback for 2–3x extraction speed.
+      Most working clinics use motorised for routine cases and reserve manual
+      for delicate or repair work.
+  - q: How long does an FUE punch last?
+    a: >-
+      Steel sharp manual punches dull noticeably across 200–400 grafts and are
+      typically replaced 2–4 times per case. Hybrid punches (sharp tip with dull
+      skirt) last longer but produce different channel geometry. Motorised punch
+      tips are typically replaced per manufacturer cycle counts (200–500 grafts
+      per tip).
+  - q: What does 'hybrid punch' mean?
+    a: >-
+      A hybrid punch has a sharp leading edge for skin penetration and a dull
+      skirt for the deeper portion. The design reduces transection of the deeper
+      follicular structures while keeping the surface cut clean. Hybrid punches
+      are popular for surgeons who find pure sharp punches too aggressive at
+      depth.
+  - q: Are titanium punches better than steel?
+    a: >-
+      Marginally, on edge retention. Titanium holds sharpness slightly longer
+      than stainless steel and is lighter in motorised handpieces. The clinical
+      effect is small. Most working clinics use stainless steel for sharp manual
+      punches and titanium or coated steel for motorised tips.
+  - q: How do I know when a punch is dull?
+    a: >-
+      Three signals: increased force needed at skin penetration (subjective),
+      increased transection rate at the same operator skill (objective), and
+      visual inspection under microscope (deformed cutting edge). Track
+      transection rate every 200 grafts; a 2-percentage-point rise mid-case is
+      the signal to replace.
+  - q: Should we standardise on one punch brand or mix?
+    a: >-
+      Standardise on one or two brands for the punch types your team uses most.
+      Mixing 5+ brands creates handpiece compatibility issues, sterilisation
+      tracking complications, and protocol drift. Two trusted suppliers covering
+      primary punch types is the working pattern.
+  - q: What's the cost difference between cheap and premium punches?
+    a: >-
+      Sharp manual punches range €5–€20 per unit; motorised tips €15–€60 per
+      unit; hybrid punches €25–€80 per unit. Across a 2,500-graft case, premium
+      punch cost adds up to €60–€200. The cost differential is meaningful for
+      high-volume clinics; the per-graft cost difference is rarely the
+      bottleneck for outcome quality.
 ---
 
 The FUE punch is the instrument that does the most physical work in any FUE case. It also fails in the most operationally costly ways — transection rates climb when punches dull, surgeon fatigue rises when punches drag, mid-case substitutions disrupt pacing. Selecting the right punch for the case, and replacing it before performance degrades, is the procurement-and-protocol discipline that distinguishes clinics with consistent extraction outcomes from clinics whose transection rates drift unpredictably.
