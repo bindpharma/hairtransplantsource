@@ -1,49 +1,94 @@
 ---
-title: "Choi Implanter Sizes Explained: When to Use Each"
-metaTitle: "Choi Implanter Sizes Explained for DHI Cases"
-metaDescription: "How DHI surgeons select Choi implanter sizes — 0.64, 0.80, 0.90, 1.00 mm — and why mid-case rotation matters."
-cluster: "instruments-suppliers"
+title: 'Choi Implanter Sizes Explained: When to Use Each'
+metaTitle: Choi Implanter Sizes Explained for DHI Cases
+metaDescription: >-
+  How DHI surgeons select Choi implanter sizes — 0.64, 0.80, 0.90, 1.00 mm — and
+  why mid-case rotation matters.
+cluster: instruments-suppliers
 isPillar: false
-primaryKeyword: "choi implanter sizes"
+primaryKeyword: choi implanter sizes
 secondaryKeywords:
-  - "dhi choi pen"
-  - "choi implanter selection"
-  - "dhi pen sizes"
-quickAnswer: "DHI cases use 3–4 Choi implanter sizes rotated within a single surgical day. 0.64 mm for single-hair grafts at the hairline edge, 0.80 mm for double-hair grafts in the frontal zone, 0.90 mm for triple-hair grafts mid-scalp, 1.00 mm for multi-hair grafts in the crown. Surgeons who use only one size produce uneven density that's visible at month 12."
-inShort: "Rotate Choi sizes by zone, not by surgeon comfort. Single size for the whole case is a marketing simplification, not a clinical practice."
-author: "editorial-team"
-publishedAt: "2026-04-26"
-updatedAt: "2026-04-26"
-status: "queued"
-publishOn: "2026-07-04T11:30:00.000Z"
+  - dhi choi pen
+  - choi implanter selection
+  - dhi pen sizes
+quickAnswer: >-
+  DHI cases use 3–4 Choi implanter sizes rotated within a single surgical day.
+  0.64 mm for single-hair grafts at the hairline edge, 0.80 mm for double-hair
+  grafts in the frontal zone, 0.90 mm for triple-hair grafts mid-scalp, 1.00 mm
+  for multi-hair grafts in the crown. Surgeons who use only one size produce
+  uneven density that's visible at month 12.
+inShort: >-
+  Rotate Choi sizes by zone, not by surgeon comfort. Single size for the whole
+  case is a marketing simplification, not a clinical practice.
+author: editorial-team
+publishedAt: '2026-04-26'
+updatedAt: '2026-07-05'
+status: published
 partnerLink: null
 partnerLinkCount: 0
 hero:
-  src: "/images/articles/choi-implanter-sizes-explained.webp"
-  alt: "Choi implanter pens of different sizes laid out for DHI graft placement"
+  src: /images/articles/choi-implanter-sizes-explained.webp
+  alt: Choi implanter pens of different sizes laid out for DHI graft placement
 internalLinks:
-  - "hair-transplant-instruments-guide"
-  - "dhi-hair-transplant-step-by-step"
-  - "dhi-hair-transplant-training-explained"
-  - "fue-vs-dhi-hair-transplant-comparison"
-  - "instrument-maintenance-and-replacement"
+  - hair-transplant-instruments-guide
+  - dhi-hair-transplant-step-by-step
+  - dhi-hair-transplant-training-explained
+  - fue-vs-dhi-hair-transplant-comparison
+  - instrument-maintenance-and-replacement
 faq:
-  - q: "Why do DHI cases need multiple Choi pen sizes?"
-    a: "Because graft sizes vary across the recipient zone. A single-hair graft placed in a 1.0 mm channel sits loosely and risks displacement; a triple-hair graft forced into a 0.64 mm channel suffers compression damage. Matching pen size to graft size protects both placement security and graft viability."
-  - q: "What's the most-used Choi size in a typical case?"
-    a: "0.80 mm and 0.90 mm together cover roughly 60–70% of placements in a mixed-density case. 0.64 mm covers hairline single-hair work (10–20%); 1.00 mm covers crown and dense-pack zones (10–15%). Distribution shifts based on the specific recipient pattern."
-  - q: "Can a surgeon use just one size for the whole case?"
-    a: "Marketing-simplified clinics sometimes claim this; clinical practice does not. Using one size produces predictable problems: looseness at the hairline (graft displacement), compression damage at the crown (reduced viability), or wasted channel diameter that allows uneven density. Trained DHI surgeons rotate sizes within each case."
-  - q: "How are Choi pens loaded?"
-    a: "Each graft is loaded into the hollow needle of the implanter pen by a trained technician. Two technicians loading in parallel keeps pace with one operator placing. The loading technique requires care — crushing the graft against the needle wall during loading is the second-largest preventable graft loss in DHI cases after time-out-of-body issues."
-  - q: "How many pens of each size does a clinic need?"
-    a: "Working stock for a clinic doing 1–2 DHI cases per day: 8–12 pens per primary size (0.80, 0.90 mm), 4–6 pens per secondary size (0.64, 1.00 mm). Total kit: 30–50 pens across all sizes, allowing for sterilisation cycles and replacement during cases."
-  - q: "How often are Choi pens replaced?"
-    a: "Pens are reusable across many cases when properly sterilised and inspected. Replacement is typically driven by needle tip damage (visible bend or burr) rather than calendar cycles. A working pen lasts 50–150 cases under normal use; aggressive use or improper handling shortens this substantially."
-  - q: "Are there alternatives to the Choi system?"
-    a: "Yes. Several manufacturers produce DHI-style implanters: Choi (the original), Lion, KEEP, and others. The mechanics are similar — single-motion implantation with sized needles — but specific feel and handling vary. Most clinics standardise on one system for team consistency."
-  - q: "What's the price range for a Choi pen kit?"
-    a: "A complete starter kit (4 sizes, 8–12 pens per size, sterilisation tray, loading station): €1,500–€3,000 from major suppliers. Per-pen replacement: €60–€180 depending on quality and brand. Annual replacement cost for a clinic doing 100 DHI cases per year typically runs €600–€1,800."
+  - q: Why do DHI cases need multiple Choi pen sizes?
+    a: >-
+      Because graft sizes vary across the recipient zone. A single-hair graft
+      placed in a 1.0 mm channel sits loosely and risks displacement; a
+      triple-hair graft forced into a 0.64 mm channel suffers compression
+      damage. Matching pen size to graft size protects both placement security
+      and graft viability.
+  - q: What's the most-used Choi size in a typical case?
+    a: >-
+      0.80 mm and 0.90 mm together cover roughly 60–70% of placements in a
+      mixed-density case. 0.64 mm covers hairline single-hair work (10–20%);
+      1.00 mm covers crown and dense-pack zones (10–15%). Distribution shifts
+      based on the specific recipient pattern.
+  - q: Can a surgeon use just one size for the whole case?
+    a: >-
+      Marketing-simplified clinics sometimes claim this; clinical practice does
+      not. Using one size produces predictable problems: looseness at the
+      hairline (graft displacement), compression damage at the crown (reduced
+      viability), or wasted channel diameter that allows uneven density. Trained
+      DHI surgeons rotate sizes within each case.
+  - q: How are Choi pens loaded?
+    a: >-
+      Each graft is loaded into the hollow needle of the implanter pen by a
+      trained technician. Two technicians loading in parallel keeps pace with
+      one operator placing. The loading technique requires care — crushing the
+      graft against the needle wall during loading is the second-largest
+      preventable graft loss in DHI cases after time-out-of-body issues.
+  - q: How many pens of each size does a clinic need?
+    a: >-
+      Working stock for a clinic doing 1–2 DHI cases per day: 8–12 pens per
+      primary size (0.80, 0.90 mm), 4–6 pens per secondary size (0.64, 1.00 mm).
+      Total kit: 30–50 pens across all sizes, allowing for sterilisation cycles
+      and replacement during cases.
+  - q: How often are Choi pens replaced?
+    a: >-
+      Pens are reusable across many cases when properly sterilised and
+      inspected. Replacement is typically driven by needle tip damage (visible
+      bend or burr) rather than calendar cycles. A working pen lasts 50–150
+      cases under normal use; aggressive use or improper handling shortens this
+      substantially.
+  - q: Are there alternatives to the Choi system?
+    a: >-
+      Yes. Several manufacturers produce DHI-style implanters: Choi (the
+      original), Lion, KEEP, and others. The mechanics are similar —
+      single-motion implantation with sized needles — but specific feel and
+      handling vary. Most clinics standardise on one system for team
+      consistency.
+  - q: What's the price range for a Choi pen kit?
+    a: >-
+      A complete starter kit (4 sizes, 8–12 pens per size, sterilisation tray,
+      loading station): €1,500–€3,000 from major suppliers. Per-pen replacement:
+      €60–€180 depending on quality and brand. Annual replacement cost for a
+      clinic doing 100 DHI cases per year typically runs €600–€1,800.
 ---
 
 The Choi implanter is the instrument that defines DHI as a technique. It combines recipient channel creation and graft placement into a single motion, eliminating the separate channel-creation step that FUE requires. The pen itself is mechanically simple — a hollow needle with a plunger mechanism — but the size selection across a single surgical day is where DHI technique meets DHI craft. This article walks through the four standard sizes, when to use each, and the rotation discipline that distinguishes clinic-grade DHI from marketing-grade DHI.
